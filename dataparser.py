@@ -12,7 +12,7 @@ def main():
 
     print(len(csv))
     for i in range (len(csv)):
-        writer += "{{\"input\": \"{}\", \"output\": \"{}\"}}\n".format(csv["product"][i][1:], csv["ad"][i])
+        writer = "{{\"input\": \"{}\", \"output\": \"{}\"}}\n".format(csv["product"][i][1:], csv["ad"][i])
         f.write(writer)
         
     
