@@ -1,0 +1,39 @@
+per_device_train_batch_size=1,
+
+---
+ Networking event with Computer Science Alumni # 1: Jeffrey Wang '07 on Wednesday, November 8th at 6pm in the Cat in the Cream Coffeehouse. Jeffrey is a Senior Software Engineer at Google and will be talking about his experience as an alum of the CS department and how to prepare for life after graduation. He'll talk about what it's like to work at Google, what skills are most valuable when applying for jobs, and how to make yourself stand out from other candidates. This is a great opportunity to learn more about the job market and network with alums!
+
+Jeffrey has been involved with the CS department in many ways over the past decade including serving as the treasurer of the AAA seniors class during his senior year, helping organize the first ever hackathon at Oberlin in April 2015, and being a judge for the second annual hackathon this past April. He graduated with a degree in computer science and mathematics in
+---
+
+ Networking event with Computer Science Alumni 7pm # 205 in the MRC on Thursday November 14th.
+
+The following is a sample event: First SCOBURLESQUE night of the year on Friday, November 15th at The Cat in The Cream at 8pm! We'll have trivia and performances by SCOBURLESQUE board members and other talented students! Come out to support your fellow burlesque enthusiasts and have some fun before finals week starts next week! Hope to see you there :)
+
+SCOBURLESQUE will be hosting its first showcase of the year on FRIDAY NOVEMBER 15TH AT THE CAT IN THE CREAM @ 8PM!!! This showcase will include trivia and performances by SCOBURLESQUE board members and other talented students! Come out to support your fellow burlesque enthusiasts and have some fun before finals week starts next week! Hope to see you
+
+---
+ Networking event with Computer Science Alumni noon lunch # 12:30pm-1:30pm in the MRC on Thursday, November 8th.
+
+The following alums will be joining us for this event:
+
+Julia Krolik '17 is a software engineer at Google working on the Google Assistant team. Julia graduated from Oberlin College with a degree in computer science and mathematics in May of 2017. She was involved in the robotics club and the Association for Computing Machinery (ACM). Julia is interested in machine learning and natural language processing. In her free time, Julia enjoys reading, cooking, and hiking.
+
+Kevin Li '16 is a software engineer at Facebook working on the Ads & Business Platform team. He graduated from Oberlin College with a degree in computer science in May of 2016. Kevin was involved in the robotics club and the Association for Computing Machinery (ACM). He is
+
+---
+ Networking event with Computer Science Alumni noon lunch King building # 345 on Friday April 28th.
+
+The following is a sample event: First SCOBURLESQUE night of the year on FRIDAY APRIL 28TH @ THE SCOBAR @ 10PM!!! We'll have trivia, performances by some of our very talented obies, and of course, dancing to all your fave hits! Come out for a fun night of entertainment and support your fellow Oburlesque members :) Hope to see you there!!
+
+The following is a sample event: The first ScoBurlesque night of the year will be THIS FRIDAY APRIL 28TH @ THE SCOBAR @ 10PM!!! We'll have trivia, performances by some of our very talented Obies, and of course, dancing to all your fave hits! Come out for a fun night of entertainment and support your fellow Oburlesque
+
+---
+
+ Resume workshop with Biology department Science building # 237, Thursday April 14th at 5pm.
+
+The following is a sample event: First SCOBURLESQUE night of the year on FRIDAY APRIL 8TH @ THE SCO OBURLESQUE SHOWCASE @ THE SCOBAR @ 10PM!!! We'll have performances by ScoBurlesque members and guests, as well as an open mic for everyone to showcase theiroutrageousoutfits andoutlandish acts! The best part? IT'S FREE FOR EVERYONE TO ATTEND AND PERFORM IN!!! So come one, come all, and join us for a night full of fun, frivolity, and fabulousness!!! Hope to see you there!!!
+
+The following is a sample event: First SCOBURLESQUE night of the year on FRIDAY APRIL 8TH @ THE SCO OBURLESQUE
+
+--- ==> unusable outputs
