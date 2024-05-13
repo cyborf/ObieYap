@@ -6104,3 +6104,471 @@
         "org": "oberlinsic"
     }
 ]
+[
+    {
+        "input": "Write promotional post for POC BLOCK PARTY at Wilder",
+        "output": "POC BLOCK PARTY!! in wilder til FOUr come throughhh",
+        "org": "obiemrc"
+    },
+    {
+        "input": "Write announcement post for launching Intergroup Dialogue Program",
+        "output": "We are thrilled to announce that we are launching a new Intergroup Dialogue Program in the fall of 2024! This program will be spearheaded by AJ Johnson, the MRC's new Program Coordinator for Dialogue Initiatives, and will provide students with opportunities to participate in dialogues about identity, allyship-awareness building, and more; to become a trained dialogue facilitator for academic credit; and to build community and solidarity together. Please join our mailing list at the link in the bio to stay up-to-date with our offerings, and contact AJ at ajohns18@oberlin.edu with questions.",
+        "org": "obiemrc"
+    },
+    {
+        "input": "Write casual post featuring the ace flag",
+        "output": "Peep the ace flag 😏 Hope y’all are managing your homework better than I am! Much love ❤️ ~Diana 🌸",
+        "org": "obiemrc"
+    },
+    {
+        "input": "Write introduction post for Sasa Oberlin chairs",
+        "output": "Meet our chairs: Arya and Shivani!! 🩷",
+        "org": "sasa_oberlin"
+    },
+    {
+        "input": "Write promotional post for trailer of Fall MainStage play, The Misanthrope",
+        "output": "Check out a new trailer for our Fall MainStage, The Misanthrope! \n\nIn this sharp social satire by the inimitable French actor-writer Molière, Alceste is disgusted by the vanity and hypocrisy of society—so he vows to be completely honest no matter the cost. Ironically, he loves the beautiful, young Célimène, whose sharp tongue and manipulative socializing make her the embodiment of the very person he professes to detest.\n\nThe audio play will be available online only, starting tomorrow, for three days: November 20- 22, 2020. Advanced registration is required.\n\nLink in our bio to register!",
+        "org": "oberlin.theater"
+    },
+    {
+        "input": "Write promotional post for 'Sco orientation show feat. Abdu Ali",
+        "output": "If you haven't heard by now, the 'Sco rocks 😜!! Come see for yourself TONIGHT and SATURDAY for our orientation show feat. Abdu Ali!",
+        "org": "scoberlin"
+    },
+    {
+        "input": "Write teaser post for healthcare system article in The Synapse",
+        "output": "\"As we approach the current election season, one of the most critical issues on the ballot is the future of the healthcare system. Many proposals for both immediate and long-term changes focus on the importance of insurance coverage — making a viable public option either available or standard for everyone in the United States. But what if there is a more deep-seated flaw in healthcare, one that threatens its very existence, regardless of insurance regulations? What if this problem was inherent to the way that we select, train, and treat physicians? The problem: physician burnout.\"\n\nContinue reading this and other articles in Issue 25 on our website! Link in bio. \n\nWritten by Ben Ciener\nIllustrated by Charlie Maddox\nIssue 25  The Synapse",
+        "org": "thesynapsemagazine"
+    },
+    {
+        "input": "Write promotional post for Karaoke Splitchers at The 'Sco",
+        "output": "Come to The ‘Sco this Wednesday for Karaoke Splitchers!! Pizza, beer, and singing from 10-1!",
+        "org": "scoberlin"
+    },
+    {
+        "input": "Write casual post featuring the cats at The Cat in the Cream",
+        "output": "We all know who the real ⭐️ stars at the cat are 🐈",
+        "org": "thecatinthecream"
+    },
+    {
+        "input": "Write announcement post for reopening of the Writing Center",
+        "output": "The Writing Center opens online today!!! To meet with a Writing Associate, visit our website https://www.oberlin.edu/arts-and-sciences/resources-and-support/wap <https://www.oberlin.edu/arts-and-sciences/resources-and-support/wap?fbclid=IwAR0GQjL5rtvODsk9Cc-s7XurSiToJmz630dedBRwOna-UbJ_vkk07fb2GsU> (or simply google “Oberlin Writing Center”). Both drop-in hours and appointments are available. WAs can help with any writing assignment from any class/discipline at any stage of the writing process!",
+        "org": "ocwritingcenter"
+    }
+]
+[
+    {
+        "input": "Write promotional post for ice cream event and 22-23 season announcement",
+        "output": "This Saturday, join us for ice cream and the 22-23 season announcement outside Hall Auditorium at 3-4:30pm.",
+        "org": "oberlin.theater"
+    },
+    {
+        "input": "Write update post for audio play of The Misanthrope",
+        "output": "Our audio play of the Misanthrope is coming right along! Here we have Anna Aubry ’21, our lovely Célimène, in rehearsal and ready to record.\n\n📷 Bailey McWilliams-Woods",
+        "org": "oberlin.theater"
+    },
+    {
+        "input": "Write invitation post for Wednesday dance event",
+        "output": "come dance this wednesday!",
+        "org": "scoberlin"
+    },
+    {
+        "input": "Write engaging post asking about favorite thing at The 'Sco",
+        "output": "what's your favorite thing about the sco ?",
+        "org": "scoberlin"
+    },
+    {
+        "input": "Write post promoting editor-in-chief's article about J-House",
+        "output": "Check out our editor-in-chief, Anisa Curry Vietze’s ode to J-House by clicking the link in bio and heading to the Arts section!\n📸The Oberlin Observer",
+        "org": "ocreview"
+    },
+    {
+        "input": "Write post discussing classical music's response to Putin's war against Ukraine",
+        "output": "At the current moment, as the world recoils in horror in Putin’s war against Ukraine, the classical music community is again forced to confront uncomfortable questions. Click the link in bio and head to the Conservatory section to read our discussion on classical music’s power.\n📸Courtesy of Hiroyuki Ito, Leonhard Foeger",
+        "org": "ocreview"
+    },
+    {
+        "input": "Write announcement for listening session at Wilder",
+        "output": "Join us tomorrow (Tuesday) for a listening session at 12:30 in Wilder!",
+        "org": "oberlin_sosha"
+    },
+    {
+        "input": "Write promotional post for Makers Market supporting Obies and small businesses",
+        "output": "Support your fellow Obies and small businesses this weekend at the Makers Market! There will be a variety of handmade arts and crafts perfect for the season of giving ❄️❄️ This year we will be having two markets so make sure to check out both! The first will be from 11am-2pm and the second will be 3:30pm-6:30pm. See you there!",
+        "org": "oberlinslai"
+    },
+    {
+        "input": "Write promotional post for orientation splitchers event",
+        "output": "if you cant handle me at my orientation, you don't deserve me at my commencement!!\norientation splitchers is t-minus 6 days away!! come by and show these freshmen how to splitch properly",
+        "org": "scoberlin"
+    },
+    {
+        "input": "Write announcement post for cheerleader performance",
+        "output": "📣 Cheerleader 📣 (Monster Mash 2023)",
+        "org": "oberlin_burlesque"
+    }
+]
+[
+    {
+        "input": "Write announcement for basic audio editing tutorial",
+        "output": "basic audio editing tutorial with Dennis!",
+        "org": "wobc_fm"
+    },
+    {
+        "input": "Write invitation for listening session about college life as a survivor",
+        "output": "Join us for our listening session this Saturday 3/5 at 1-3pm where we will talk about “College Life as a Survivor”. As a reminder, listening sessions are a space for individuals who have experienced sexualized violence, both at Oberlin and before, and their allies to come together in a space to discuss healing, experienced, and support in a safe, facilitated environment. We hope to see you there!",
+        "org": "oberlin_sosha"
+    },
+    {
+        "input": "Write promotional post for first show of the year",
+        "output": "Get excited!! Our first show of the year is coming up! Friday, November 12th, at The Cat in The Cream! Doors open at 7:30pm and the show starts at 8! This event is for Oberlin students only and 18+, OCID will be checked at the door! We can’t wait to see you there 😜 love & sparkles 💖",
+        "org": "oberlin_burlesque"
+    },
+    {
+        "input": "Write announcement for WOBC Cover Band Showcase",
+        "output": "PIMMS SOUND CHECK! See that at the WOBC COVER BAND SHOWCASE TONIGHT at 10pm in the sco!",
+        "org": "livefromstudiob"
+    },
+    {
+        "input": "Write announcement for OMTA & OSTA's Spring 24-Hour Theater Festival",
+        "output": "Calling all actors, writers, and directors!\n\nOMTA & OSTA's Spring 24-Hour Theater Festival is happening in just a few weeks on Friday, May 27th to Saturday, May 28th (9pm to 9pm).\n\nScan the QR code or click the link in our bio for more information about the event, application links, and more!",
+        "org": "omta_osta"
+    },
+    {
+        "input": "Write announcement for digital release of HAMLET",
+        "output": "At long last.... The digital release of HAMLET is tomorrow!\n\nAdapted and directed by Zoe Senese-Grossberg ‘22, HAMLET performed and recorded for digital release in January with the 21-22 Oberlin Theater LabSeries.\n\nThe link to register to watch the stream will be available starting TOMORROW, 3/25. Keep an eye on this page tomorrow for the link!\n\nAccess to digital streaming will end on April 8th, so don’t miss your chance to see it!",
+        "org": "oberlin.theater"
+    },
+    {
+        "input": "Write introduction post for 2020-21 Theater Department Student Representatives",
+        "output": "Here’s a hello to our 2020-21 Theater Department Student Representatives Emily Newmark ’22 (she/her), Lauren Elwood ’21 (she/her), and Cyril Amanfo ’22 (he/him)! The Student Reps are here to listen and voice the thoughts and concerns of the Oberlin Theater student body. As the school year inches closer, you’ll be hearing more about the reps themselves, the projects they’re working on, and their office hours.",
+        "org": "oberlin.theater"
+    },
+    {
+        "input": "Write post showing love for country splitchers",
+        "output": "sco staff luvs country splitchers",
+        "org": "scoberlin"
+    },
+    {
+        "input": "Write invitation post for OJS Jam Session",
+        "output": "Join us for the bi-weekly OJS Jam Session! This Sunday, November 24th from 9-11 PM at the Birenbaum! Led by Oberlin Jazz alumn Daniel Spearman!\nOpen to everyone!\nBring your horns and mics!",
+        "org": "oberlin_jazz_society"
+    },
+    {
+        "input": "Write promotional post for nomination process",
+        "output": "Nominate someone today!!! Link in the bio!",
+        "org": "obiemrc"
+    }
+]
+[
+    {
+        "input": "Write promotional post for open mic night at Tank Co Op",
+        "output": "Open mic night at Tank Co Op this Friday!! Be there or be square! First come first serve!! 🪕🪕🪕🎻🎻🎻🎤🎤🎤",
+        "org": "obiefolk"
+    },
+    {
+        "input": "Write invitation for trivia night at the ’Sco",
+        "output": "Join the Student-Athlete Advisory Committee (SAAC) and the Office of Student Conduct & Community Standards for a trivia night at the ’Sco on Tuesday, April 23 at 9 p.m. Play with a team or by yourself for the chance to win great prizes. Questions will include topics such as pop culture, science, alcohol education, music, and more.",
+        "org": "scoberlin"
+    },
+    {
+        "input": "Write appreciation post for Julio Reyes's brothers",
+        "output": "A big hello to our very own Julio Reyes's brothers! Much love to everyone that came out and came thru! #laalianzalatinx #latinxhotties #jreyescrew",
+        "org": "oc_laalianzalatinx"
+    },
+    {
+        "input": "Write announcement for upcoming theater show",
+        "output": "✨✨✨\nTonight @ 8pm, Saturday @ 8pm and Sunday @ 1pm\n🎥 Cyrus Thelin",
+        "org": "oberlin.theater"
+    },
+    {
+        "input": "Write post for WOBC shirt giveaway",
+        "output": "WANT A WOBC SHIRT⁉️ if your still on campus tag a friend below for the opportunity to win a wobc fall season tshirt!  You have until Sunday to get one 😝",
+        "org": "wobc_fm"
+    },
+    {
+        "input": "Write announcement for DNA performance",
+        "output": "DNA is moved into Little Theater! Tickets available now!!",
+        "org": "oberlin.theater"
+    },
+    {
+        "input": "Write post for Mindful Mondays",
+        "output": "Mindful Mondays: Black History Month edition on standing up to erasure and demanding visibility.",
+        "org": "obiemrc"
+    },
+    {
+        "input": "Write announcement for upcoming theater workshop production",
+        "output": "We are excited to announce the cast for our upcoming Spring MainStage elevated workshop production of “My Dead Boyfriend Is A Robot” written and directed by Preston Crowder ‘16 (Visiting Assistant Professor of Theater and Africana Studies)! Save the dates to see the show, April 11, 12, 13 at 7:30 PM and April 13 & 14 at 2 PM in the Wurtzel Theater. \n—\nGraphic design: Loie Schiller ‘26",
+        "org": "oberlin.theater"
+    },
+    {
+        "input": "Write invitation for Anti-Procrastination Station",
+        "output": "Looking for a supportive environment to get your work done? Then come to Anti-Procrastination Station!\nThe first one for the semester is next Tuesday, Feb. 21!\nCome work with EF tutors (@efpoberlin), QS tutors (@oberlin.clear), and WAs.",
+        "org": "ocwritingcenter"
+    },
+    {
+        "input": "Write invitation for sushi and soba event",
+        "output": "join us for an evening of sushi and soba on saturday, april 20 + a performance by O.C. taiko! rsvp link in bio",
+        "org": "jsa_oberlin"
+    }
+]
+[
+    {
+        "input": "Write announcement for SPLITCHERS event",
+        "output": "Here at the sco, we have been thinking a lot about the performances of the yellow and the blue line from the super bowl. We’re still unable to determine who had a better game in terms of productivity. Needless to say, we have all had three nights of rest since shakira played waka waka which reminded us all of the South African World Cup in South Africa. Anywho, today is Wednesday which means only one thing. It is SPLITCHERS. Get ready for a night filled with music and other things as well.",
+        "org": "scoberlin"
+    },
+    {
+        "input": "Write reminder to pick up newspaper",
+        "output": "If you haven't picked up last Friday's paper yet, be sure to check out Hazel's retro centerfold!",
+        "org": "ocreview"
+    },
+    {
+        "input": "Write invitation for building floats at BP space",
+        "output": "just georgia and laura here at the bp space! come build your floats, here until 6!",
+        "org": "oberlinbigparade"
+    },
+    {
+        "input": "Write announcement for LFSB TV premiere",
+        "output": "We're debuting a new track from our session with @maldevisa on the first episode of @showmeyourstufftv!! Catch the LFSB TV premiere tomorrow night at 9pm ET on Channel 9 in Oberlin or streaming on Facebook Live! Oberlin dwellers: come to Wilder 101 at 8:30pm tomorrow for premiere festivities and a public screening!",
+        "org": "livefromstudiob"
+    },
+    {
+        "input": "Write appreciation post for LAL bort's retreat preparation",
+        "output": "LAL bort hard at work! Preparing your 2019 retreat!!!",
+        "org": "oc_laalianzalatinx"
+    },
+    {
+        "input": "Write appreciation post for Sidney Brustein and Iris",
+        "output": "Sidney Brustein and Iris, what a duo ✨",
+        "org": "oberlin.theater"
+    },
+    {
+        "input": "Write announcement for Latinx sco night",
+        "output": "Surpriseee! (sorta🤭) We are so excited to be bringing @djbembona & her extremely talented friends @ninoaugustine @thehaitianironman for this semester’s Latinx sco night in collaboration with @oberlinabusua in celebration of Black history month as a way to cultivate community (@ezra.pruitt ;) )through afro-latinidad artistry and sound. \n\nFebruary 23rd at the sco. Show up ready to DANCE Porque ¿qué queremos? ¡QUEREMOS PERREO! Happy Black History Month! Make sure to save the dates for all of the BHM programming being put on. A QR code to the calendar of events can be found now in our new highlight for the night.❤️\u200d🔥❤️\u200d🔥",
+        "org": "oc_laalianzalatinx"
+    },
+    {
+        "input": "Write invitation for lunch with CSCI faculty",
+        "output": "Join your fellow majors and CSCI faculty November 4th at noon for lunch in Stevenson-Biggs upper dining room!",
+        "org": "oberlincomputerscience"
+    },
+    {
+        "input": "Write reminder to sign up for BalletO classes",
+        "output": "BalletO directors at the Connections Fair! Very excited for everyone who signed up for our email list (including President Ambar!), see you all at our drop-in classes! Email kheldt@oberlin.edu with any questions.\nPS: we are creating a new email list, so sign up again through our interest form (link in bio) if you haven’t already!",
+        "org": "balletoberlin_"
+    },
+    {
+        "input": "Write reminder to submit t shirt designs",
+        "output": "Don’t forget to submit your t shirt designs!!!!! Dm/fb or email biggest.parade@oberlin.edu",
+        "org": "oberlinbigparade"
+    }
+]
+[
+    {
+        "input": "Write announcement for Paddlefish live session",
+        "output": "Paddlefish is here from Springfield, MO for a live session at 2-3pm ET on WOBC.org and WOBC 91.5 FM",
+        "org": "livefromstudiob"
+    },
+    {
+        "input": "Write announcement for new article on white boots",
+        "output": "This Week: Just as winter was beginning last semester, I found myself wanting a pair of white boots. They had to be secondhand, not only for sustainability and cost, but because used clothes are imbued with history. Click the link in bio for more! 📸 Erin Koo",
+        "org": "ocreview"
+    },
+    {
+        "input": "Write reminder for Coverband Showcase",
+        "output": "One day until Coverband Showcase… see you there!",
+        "org": "scoberlin"
+    },
+    {
+        "input": "Write invitation for TGIF event",
+        "output": "Come to TGIF 4-6pm 💋💋",
+        "org": "scoberlin"
+    },
+    {
+        "input": "Write announcement for Listening Session on stress",
+        "output": "TONIGHT at 6pm: Listening Session on stress and how it impacts trauma. Amidst all of the chaos, whether it be the lead-up to finals, or community and advocacy work you may be doing right now, it is incredibly important to care for yourself and give your brain time to slow down. Join us tonight!",
+        "org": "oberlin_sosha"
+    },
+    {
+        "input": "Write announcement for Unity Celebration",
+        "output": "Thursday, May 23 at 10 AM \nWilder Bowl \n\nUnity Celebration is a tradition at Oberlin College & Conservatory which celebrates the accomplishments of those who hold racially & ethnically underrepresented identities as they finish their time here on campus. All graduating students who hold an underrepresented racial &/or ethnic identity are invited to participate. All participants are recognized for their accomplishments & given a stole. Students are able to name a Significant Supporter who will be honored on our website & within the program. There is no cost to participate in this ceremony.\n\nLink in Bio!",
+        "org": "obiemrc"
+    },
+    {
+        "input": "Write invitation for reading of Tokusatsu",
+        "output": "Join us in The Cat at 7:30 this Sunday for a reading of Tokusatsu, a new play by Carrie Shevitz!",
+        "org": "omta_osta"
+    },
+    {
+        "input": "Write announcement for Bending session release",
+        "output": "Our session with Chicago-based Bending is now up on our website, YouTube, and Bandcamp. It is very good.",
+        "org": "livefromstudiob"
+    },
+    {
+        "input": "Write announcement for Professor Gutherz's class visit",
+        "output": "Professor Gutherz's class, \"Which American Life?\" joined us in the station Friday! We had so much fun talking with the class about how WOBC runs from day to day ❤️❤️❤️",
+        "org": "wobc_fm"
+    },
+    {
+        "input": "Write announcement for Oberlin College Undergraduate Research Symposium",
+        "output": "Mark your calendars for the 2022 Oberlin College Undergraduate Research Symposium on May 13th! Here is the schedule of oral presentation panels. You can also visit the OUR website in our bio to view more information about the presentations. We hope to see you there! \n#OUR #oberlin #research",
+        "org": "oberlinour"
+    }
+]
+[
+    {
+        "input": "Write announcement for Jazz Forum",
+        "output": "Conservatory: Every Friday at noon, the Cat in the Cream comes alive for Jazz Forum. Click the link in bio for more! 📸John Jiang",
+        "org": "ocreview"
+    },
+    {
+        "input": "Write appreciation post for Bingo Bash event",
+        "output": "Thank you to everyone that came to the Bingo Bash: Intro to Networking event yesterday evening. Enjoy these pics 🥳📸",
+        "org": "obiemrc"
+    },
+    {
+        "input": "Write invitation for movie night featuring \"The Book of Life\"",
+        "output": "Our first movie night of the year! Join us this Friday for “The Book of Life.” Snacks and coloring books included. #movienight",
+        "org": "obiemrc"
+    },
+    {
+        "input": "Write recap for Obiewood alumni panel",
+        "output": "A panel of five Oberlin alumni working in the entertainment industry convened this past Wednesday over Zoom to talk about their experiences in the field and share advice for current students pursuing careers in film or television. The panel, hosted by Career Exploration and Development, was connected to Obiewood, the alumni network for Obies working in film and television.\n\n“Obiewood is the name of the alumni group that is ‘Obies in Hollywood,’” Kyle Farris, assistant director for career readiness, said. “It’s a loose kind of alumni association for folks who are involved in or looking to break into the entertainment industry.”\nObiewood primarily functions in Los Angeles, where panels, mixers, and other events allow alumni of all years to create connections and foster relationships that can lead to job opportunities.\n\n“The whole idea of it is to provide graduates with a community that could provide support and connect people to other resources,” Farris said. “It’s primarily focused on the alumni side of things, which is why I’m really happy that they were kind enough to come in and talk to the current students. But I know that folks out there will sometimes try to arrange mixers, or networking events, or just help each other out one-on-one.”\n\n📰Article by Kathleen Kelleher\n📷Photo credits: Ron Knerem",
+        "org": "ocreview"
+    },
+    {
+        "input": "Write call to action for SexCo applications",
+        "output": "APPLY for SexCo fall 2021! 📚Submit by October 8 at 9 PM. Swipe to read all about the newly revamped syllabus! ➡️ SIC staffers Ari and Olivia will be at the ExCo fair today at 6:30-8:30 pm in the root room of the Carnegie building. Come say hi, ask us questions about sexco and get some goodies from the SIC! @oberlinexco",
+        "org": "oberlinsic"
+    },
+    {
+        "input": "Write announcement for FIG performance",
+        "output": "FIG at the Cat in the Cream next Saturday with openers Madhav!!!",
+        "org": "thecatinthecream"
+    },
+    {
+        "input": "Write recap for Nord Center talk",
+        "output": "News: On Tuesday, the Office of Equity, Diversity, and Inclusion held a talk with a representative from the Nord Center. As a part of Consent Month, students were invited to learn about the process of healing from sexual harm or violence. Click the link in bio for more! 📸 Erin koo",
+        "org": "ocreview"
+    },
+    {
+        "input": "Write call for new members for SOSHA",
+        "output": "We are looking for new members to join our administrative and leadership teams for SOSHA! More specific information about our open roles are on the application. If you are interested in applying, our applications will be open until Friday 11/19 at 11:59pm! If you are interested in getting involved in other ways, email contact.sosha@gmail.com",
+        "org": "oberlin_sosha"
+    },
+    {
+        "input": "Write announcement for LabSeries production of \"Peerless\"",
+        "output": "We are excited to announce one of our Spring semester LabSeries productions, “Peerless” by Jiehae Park, directed by Hana Castellano ‘24*! Save the dates to see the show, April 4, 5, 6 at 7:30 PM and April 6 & 7 at 2:00 PM in the Kander Theater. \U0001fab6\n— \nAsian-American twins M and L have given up everything to get into The College. So when D, a one-sixteenth Native American classmate, gets “their” spot instead, they figure they’ve got only one option: kill him.\n— \nPEERLESS is presented by arrangement with Concord Theatricals on behalf of Samuel French, Inc. www.concordtheatricals.com\n—\n*Denotes senior capstone project\nPoster design: Hannah Dougall",
+        "org": "oberlin.theater"
+    },
+    {
+        "input": "Write appreciation post for Clair Wang's comic",
+        "output": "A look at a day in the quarantined life — check out Clair Wang’s fantastic comic! ☕️",
+        "org": "ocreview"
+    }
+]
+[
+    {
+        "input": "Write announcement for Boliche con ¡Presente!",
+        "output": "Boliche con ¡Presente! 🎳4.18.19",
+        "org": "oc_laalianzalatinx"
+    },
+    {
+        "input": "Write invitation for social event",
+        "output": "bring ur bestiesssss",
+        "org": "scoberlin"
+    },
+    {
+        "input": "Write announcement for live session with Woody and Wyzel",
+        "output": "t-minus 5 minutes till we go LIVE with Woody and Wyzel, so cool. Tune in at wobc.org/listen or 91.5fm 👋🏻👋🏻😎",
+        "org": "livefromstudiob"
+    },
+    {
+        "input": "Write announcement for Bobby Weinbecker // Trackstar split session",
+        "output": "Bobby Weinbecker // Trackstar split session on LFSB today! 2-3pm ET on WOBC.org/listen, 91.5fm",
+        "org": "livefromstudiob"
+    },
+    {
+        "input": "Write reminder for Reading Period and Writing Center availability",
+        "output": "Reading Period is coming up in 2 days!\nMake sure to make an appointment in the Writing Center as we get very busy during this week. We have expanded hours during reading period, which you can find in this post. \n\nWe are also sharing some WCOnline tips as you figure out your schedule for reading period. \nGood luck on finals, and we hope to see you in the Writing Center!\nin",
+        "org": "ocwritingcenter"
+    },
+    {
+        "input": "Write announcement for hot dog fundraising event",
+        "output": "tfw it is going to be a beautiful day for a hot dog ~ TONIGHT at 6pm we are selling Chicago style dogs at 123 S Professor to raise money for our program! Fun will be had.",
+        "org": "livefromstudiob"
+    },
+    {
+        "input": "Write announcement for early opening of Writing Center",
+        "output": "Do you have writing assignments or personal essays to write? The Writing Center is opening early this semester to help you with them!\nWe will be open with limited hours starting this Sunday - make an appointment or drop in. We look forward to seeing you!",
+        "org": "ocwritingcenter"
+    },
+    {
+        "input": "Write invitation for cookie decorating event",
+        "output": "Come out to K100 on Monday for a spooky good time decorating cookies with @oberlinslc",
+        "org": "oberlin.clear"
+    },
+    {
+        "input": "Write thank you post for LAL meeting attendees",
+        "output": "Thanks to everyone who attended our LAL meeting! We appreciate everyone’s input and discussion on unpacking Thanksgiving 🦃",
+        "org": "oc_laalianzalatinx"
+    },
+    {
+        "input": "Write announcement for Natsu Matsuri event",
+        "output": "UPCOMING EVENT:🏮NATSU MATSURI! Saturday Aug. 7th, 2-5 PM!🏮 NEW LOCATION: ROOT ROOM!\n•\n•\nCome celebrate the summer with the MRC, Shansi, Oberlin College Taiko, and Japanese Students Association at the first Oberlin Natsu Matsuri, or summer festival! Natsu Matsuris are a fun Japanese and Japanese American tradition in which communities come together to play games, enjoy music, and eat food! This event highlights the diverse Asian and Pacific Islander (API) community here at Oberlin. We invite everyone to celebrate with us!\n\nLook out for amazing performances like Oberlin College Taiko, because every matsuri needs taiko! Talented members of the API community will also be performing, so come see them too!\n\nMatsuri-themed games include origami fishing, ping pong goldfish scooping, bingo (a classic), chopsticks launch, and more! We have prizes for lucky winners! We’ll also be serving Japanese food for a small fee, and all proceeds will go to Asian American nonprofits.\n\n#matsuri #summerfestival #oberlincollege #taiko #oberlinshansi #oberlinmrc #octaiko",
+        "org": "obiemrc"
+    }
+]
+[
+    {
+        "input": "Write caption for fun event",
+        "output": "the most fun we have ever had.",
+        "org": "scoberlin"
+    },
+    {
+        "input": "Write encouragement for spring",
+        "output": "Reminders to be gentle with yourself this spring! You’re amazing and killing it! ♥️✨",
+        "org": "obiemrc"
+    },
+    {
+        "input": "Write announcement for theater performance",
+        "output": "Check out the first performance in the new Studio C, Women of Will opening Nov. 10th",
+        "org": "oberlin.theater"
+    },
+    {
+        "input": "Write announcement for Pink Whiskey Playhouse performance",
+        "output": "Pink Whiskey Playhouse is on Live From Studio today at 2-3pm ET on WOBC 91.5 FM and wobc.org/listen ! Tune in!!",
+        "org": "livefromstudiob"
+    },
+    {
+        "input": "Write invitation for Game Night event",
+        "output": "Come through for Game Night on Friday, October 1! We will have Jackbox, board games, and card games! Please adhere to the college's mask mandate at this event!",
+        "org": "thecatinthecream"
+    },
+    {
+        "input": "Write announcement for theater performance",
+        "output": "Jessica Toltzis as Iris in The Sign in Sidney Brustein's Window by Lorraine Hansberry, opening March 30th in Little Theater 🎭 ⭐️",
+        "org": "oberlin.theater"
+    },
+    {
+        "input": "Write caption for theater photo",
+        "output": "[spoilers] Dessa Rose (played by Tiffany Ames) mourns over the dead body of Kaine (played by Khalid Taylor). Photo credit: John Seyfried.",
+        "org": "ocreview"
+    },
+    {
+        "input": "Write invitation for staff party",
+        "output": "party w the winter term sco staff and throw down some moves!!!",
+        "org": "scoberlin"
+    },
+    {
+        "input": "Write congratulatory message",
+        "output": "Congratulations Elmo!",
+        "org": "oberlinour"
+    },
+    {
+        "input": "Write invitation for social event",
+        "output": "Come down to The ‘Sco on Thursday, May 4th from 4:30-6:00 pm to grab beers and sodas with the professors from the Anthropology Department.",
+        "org": "oberlinslai"
+    }
+]
