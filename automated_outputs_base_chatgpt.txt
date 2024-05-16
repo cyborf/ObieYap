@@ -1,0 +1,234 @@
+- time: 2024-05-16 00:58:41.861463- input: CS Alumni event
+- output: 
+CS Alumni event:
+
+The Department of Computer Science and Engineering, IIT Kharagpur is organizing a one day alumni meet on 16th December 2017. The objective of the meet is to bring together all the alumni from CSE department and provide them an opportunity to interact with each other as well as with the faculty members. This will also be an occasion for the alumni to share their experiences in industry/academia and inspire the current students.
+
+Venue: Seminar Hall, CSE Building, IIT Kharagpur
+Date: Saturday, 16th December 2017
+Time: 9 AM - 5 PM
+
+Registration link: https://goo.gl/forms/834jqYKZJXkfQvgx1
+
+For more details contact:
+Dr. Sourav Chakraborty (sourav@cse.iitkgp.ernet.in)
+-------------------- 
+- time: 2024-05-16 00:58:44.866103- input: Write a promotional post about the Computer Science Alumni event
+- output: 
+Write a promotional post about the Computer Science Alumni event on 10/26.
+
+The Computer Science Department is hosting an alumni event on October 26th, from 5:30-7:30pm in the CSE building. The event will feature a panel of alumni who are working at local companies and startups. They will discuss their career paths since graduating from UW, as well as what they do now. There will also be time for networking with other alumni and current students. This is a great opportunity to learn more about careers in computer science and meet people who have been successful in this field.
+-------------------- 
+- time: 2024-05-16 00:58:49.076609- input: Queer Trivia at Cat in the Cream
+- output: 
+Queer Trivia at Cat in the Cream
+
+The Cat in the Cream is a queer-friendly bar and restaurant located on 1307 N. High St., Columbus, OH 43201. The bar has been around since 1985 and was named after the cat that used to live there. It’s a great place for drinks, food, and fun!
+
+Queer trivia night is every Wednesday from 6:30pm – 8:30pm. There are prizes for first, second, and third place teams. You can also win prizes by answering bonus questions throughout the game.
+
+If you want to play, just show up with your team of four or less people (or join one when you get there). If you don’t have a team, they will help you find one.
+
+There is no cover charge but tips are appreciated.
+-------------------- 
+- time: 2024-05-16 00:58:54.793203- input: Boba with International Student and Scholar Service (ISSS) staff members
+- output: 
+Boba with International Student and Scholar Service (ISSS) staff members
+
+Boba is a popular Taiwanese drink that has become increasingly popular in the United States. It’s made of tapioca balls, milk tea, and sugar. The tapioca balls are chewy and have a unique texture. They can be eaten by themselves or added to other drinks like coffee or smoothies.
+
+The first time I tried boba was when my friend brought me some from her hometown in China. She said it was very common there but not so much here in America. When she told me about how delicious they were, I couldn’t wait to try them myself! So we went out together one night after class and got ourselves some bubble tea at our favorite spot near campus. We both loved it right away – especially since ours came with extra-large straws so we could suck up all those little pearls without having any trouble getting them down our throats 🙂
+
+## What Is Boba?
+
+Boba is a type of tea that originated in Taiwan. It consists of small balls made from tapioca starch, which are then cooked until they become soft and chewy. These balls are usually served with milk or fruit juice as well as ice cream on top.
+
+There
+-------------------- 
+- time: 2024-05-16 00:58:58.918752- input: SOSHA Craft Night
+- output: 
+SOSHA Craft Night
+
+SOSHA is hosting a craft night on Thursday, March 28th from 6:30-9pm at the SOSHA office. We will be making cards for our residents and their families to celebrate Easter! This event is open to all volunteers and staff members. Please RSVP by emailing sosha@soshashelter.org or calling (517) 485-8486.
+
+Volunteer Training
+
+We are holding volunteer training sessions on Tuesday, April 2nd and Wednesday, April 3rd from 6:30-8:30pm at the SOSHA office. If you would like to attend one of these trainings please contact us at sosha@soshashelter.org or call (517) 485-8486.
+-------------------- 
+- time: 2024-05-16 00:59:04.833440
+- input: Pizza at 1PM Monday
+- output: 
+Pizza at 1PM Monday?
+
+I’m not sure if I should be proud of myself or ashamed. It was a good pizza, but it wasn’t the best pizza in town. And I had to walk past two other places that serve better pizza on my way home from work. But I didn’t care. I wanted pizza and I got it.
+
+It was a nice day out so I decided to eat outside. The place is called “Pizzeria Uno” and they have a patio with tables and chairs. There were only three people there when I arrived. One guy eating alone, one couple sitting together, and me.
+
+The menu has all kinds of pizzas listed by number. They also offer salads, sandwiches, and desserts. I ordered #20 which is a pepperoni pizza with mushrooms and green peppers. It came with a side salad.
+
+When I asked for extra cheese, she said no problem. She then added some more sauce to the top of the pie before putting it into the oven. After about ten minutes, she brought it back out and cut it up into eight slices. Then she put it onto a plate and handed it over to me.
+
+
+-------------------- 
+- time: 2024-05-16 00:59:10.751751
+- input: Pizza at King Building
+- output: 
+Pizza at King Building
+
+The King Building is a 1920s-era building in the heart of downtown. It was originally built as an office building, but has been converted into apartments and retail space. The pizza place on the ground floor is called “Pizza” (I know, I know…). They have a nice selection of beers on tap, including some local brews from places like New Belgium and Odell. Their pizzas are pretty good too!
+
+## What is the best pizza in Fort Collins?
+
+There are many great pizza places in Fort Collins, but here are our top picks:
+
+1. Pizzeria Locale – This restaurant serves up delicious Neapolitan style pies with fresh ingredients that will make your mouth water. You can’t go wrong with any of their options!
+2. Pizza Casbah – If you’re looking for something different than traditional Italian fare then this spot should be on your list. They offer unique flavors such as lamb sausage or even vegan cheese if that’s what floats your boat!
+3. Pieology – For those who want to build their own personalized pie there’s no better place than Pieology where
+-------------------- 
+- time: 2024-05-16 00:59:16.412405
+- input: Professor Beer at the 'Sco by Economics Department
+- output: 
+Professor Beer at the 'Sco by Economics Department
+
+The Economics Department hosted a talk on Thursday, April 12th with Professor Robert Beer from the University of California, Santa Barbara. The event was held in the ‘Sco and was attended by students and faculty members alike.
+
+Professor Beer’s research focuses on the economics of education, labor markets, and public policy. He has published articles in leading academic journals such as the American Economic Review, Journal of Political Economy, Quarterly Journal of Economics, and Journal of Labor Economics. His current work examines the effects of school choice programs on student achievement, teacher quality, and segregation; the impact of college financial aid policies on educational attainment; and the role of social networks in shaping career outcomes.
+
+During his visit to UC Berkeley, Professor Beer gave an informal presentation about his research on the effects of school choice programs on student achievement. In particular, he discussed how these programs can help improve educational outcomes for low-income students.
+
+After the presentation, there was a Q&A session where students had the opportunity to ask questions about Professor Beer’s research and get advice on pursuing careers in academia or consulting. Overall, it was
+-------------------- 
+- time: 2024-05-16 00:59:22.176182
+- input: Pizza at King Building, 1PM on Monday
+- output: 
+Pizza at King Building, 1PM on Monday
+
+The next meeting of the UW-Madison chapter of the American Society for Biochemistry and Molecular Biology (ASBMB) will be held in room 205 of the King Building on Monday, November 3rd from 1:00 to 2:00 PM. The speaker is Dr. David G. Nelson, Professor of Chemistry and Biomolecular Chemistry at UW-Madison. His talk is entitled “Chemical Biology of Protein Folding.”
+
+Abstract:
+Proteins are essential components of all living organisms. They carry out a wide range of functions including catalysis, transport, signaling, structural support, and regulation. In order to perform these diverse roles, proteins must fold into their native structures with high fidelity. This process is often referred to as protein folding. However, this term can be misleading because it implies that there is only one structure that a given polypeptide chain can adopt. In fact, many proteins have multiple stable conformations, some of which may be biologically relevant while others may not. Furthermore, proteins do not always fold correctly. For example, mutations or other perturbations can
+-------------------- 
+- time: 2024-05-16 04:08:35.957481
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: CS Alumni event
+- output: 
+CS Alumni event:
+
+The Department of Computer Science and Engineering, IIT Kharagpur is organizing a one day alumni meet on 16th December 2017. The objective of the meet is to bring together all the alumni from CSE department and provide them an opportunity to interact with each other as well as with the faculty members. This will also be an occasion for the alumni to share their experiences in industry/academia and inspire the current students.
+
+Venue: Seminar Hall, CSE Building, IIT Kharagpur
+Date: Saturday, 16th December 2017
+Time: 9 AM - 5 PM
+
+Registration link: https://goo.gl/forms/834jqYKZJXkfQvgx1
+
+For more details contact:
+Dr. Sourav Chakraborty (sourav@cse.iitkgp.ernet.in)
+-------------------- 
+- time: 2024-05-16 04:08:38.871214
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Write a promotional post about the Computer Science Alumni event
+- output: 
+Write a promotional post about the Computer Science Alumni event on 10/26.
+
+The Computer Science Department is hosting an alumni event on October 26th, from 5:30-7:30pm in the CSE building. The event will feature a panel of alumni who are working at local companies and startups. They will discuss their career paths since graduating from UW, as well as what they do now. There will also be time for networking with other alumni and current students. This is a great opportunity to learn more about careers in computer science and meet people who have been successful in this field.
+-------------------- 
+- time: 2024-05-16 04:08:43.114486
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Queer Trivia at Cat in the Cream
+- output: 
+Queer Trivia at Cat in the Cream
+
+The Cat in the Cream is a queer-friendly bar and restaurant located on 1307 N. High St., Columbus, OH 43201. The bar has been around since 1985 and was named after the cat that used to live there. It’s a great place for drinks, food, and fun!
+
+Queer trivia night is every Wednesday from 6:30pm – 8:30pm. There are prizes for first, second, and third place teams. You can also win prizes by answering bonus questions throughout the game.
+
+If you want to play, just show up with your team of four or less people (or join one when you get there). If you don’t have a team, they will help you find one.
+
+There is no cover charge but tips are appreciated.
+-------------------- 
+- time: 2024-05-16 04:08:48.939301
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Boba with International Student and Scholar Service (ISSS) staff members
+- output: 
+Boba with International Student and Scholar Service (ISSS) staff members
+
+Boba is a popular Taiwanese drink that has become increasingly popular in the United States. It’s made of tapioca balls, milk tea, and sugar. The tapioca balls are chewy and have a unique texture. They can be eaten by themselves or added to other drinks like coffee or smoothies.
+
+The first time I tried boba was when my friend brought me some from her hometown in China. She said it was very common there but not so much here in America. When she told me about how delicious they were, I couldn’t wait to try them myself! So we went out together one night after class and got ourselves some bubble tea at our favorite spot near campus. We both loved it right away – especially since ours came with extra-large straws so we could suck up all those little pearls without having any trouble getting them down our throats 🙂
+
+## What Is Boba?
+
+Boba is a type of tea that originated in Taiwan. It consists of small balls made from tapioca starch, which are then cooked until they become soft and chewy. These balls are usually served with milk or fruit juice as well as ice cream on top.
+
+There
+-------------------- 
+- time: 2024-05-16 04:08:53.219197
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: SOSHA Craft Night
+- output: 
+SOSHA Craft Night
+
+SOSHA is hosting a craft night on Thursday, March 28th from 6:30-9pm at the SOSHA office. We will be making cards for our residents and their families to celebrate Easter! This event is open to all volunteers and staff members. Please RSVP by emailing sosha@soshashelter.org or calling (517) 485-8486.
+
+Volunteer Training
+
+We are holding volunteer training sessions on Tuesday, April 2nd and Wednesday, April 3rd from 6:30-8:30pm at the SOSHA office. If you would like to attend one of these trainings please contact us at sosha@soshashelter.org or call (517) 485-8486.
+-------------------- 
+- time: 2024-05-16 04:08:58.952620
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Pizza at 1PM Monday
+- output: 
+Pizza at 1PM Monday?
+
+I’m not sure if I should be proud of myself or ashamed. It was a good pizza, but it wasn’t the best pizza in town. And I had to walk past two other places that serve better pizza on my way home from work. But I didn’t care. I wanted pizza and I got it.
+
+It was a nice day out so I decided to eat outside. The place is called “Pizzeria Uno” and they have a patio with tables and chairs. There were only three people there when I arrived. One guy eating alone, one couple sitting together, and me.
+
+The menu has all kinds of pizzas listed by number. They also offer salads, sandwiches, and desserts. I ordered #20 which is a pepperoni pizza with mushrooms and green peppers. It came with a side salad.
+
+When I asked for extra cheese, she said no problem. She then added some more sauce to the top of the pie before putting it into the oven. After about ten minutes, she brought it back out and cut it up into eight slices. Then she put it onto a plate and handed it over to me.
+
+
+-------------------- 
+- time: 2024-05-16 04:09:04.541213
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Pizza at King Building
+- output: 
+Pizza at King Building
+
+The King Building is a 1920s-era building in the heart of downtown. It was originally built as an office building, but has been converted into apartments and retail space. The pizza place on the ground floor is called “Pizza” (I know, I know…). They have a nice selection of beers on tap, including some local brews from places like New Belgium and Odell. Their pizzas are pretty good too!
+
+## What is the best pizza in Fort Collins?
+
+There are many great pizza places in Fort Collins, but here are our top picks:
+
+1. Pizzeria Locale – This restaurant serves up delicious Neapolitan style pies with fresh ingredients that will make your mouth water. You can’t go wrong with any of their options!
+2. Pizza Casbah – If you’re looking for something different than traditional Italian fare then this spot should be on your list. They offer unique flavors such as lamb sausage or even vegan cheese if that’s what floats your boat!
+3. Pieology – For those who want to build their own personalized pie there’s no better place than Pieology where
+-------------------- 
+- time: 2024-05-16 04:09:10.228060
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Professor Beer at the 'Sco by Economics Department
+- output: 
+Professor Beer at the 'Sco by Economics Department
+
+The Economics Department hosted a talk on Thursday, April 12th with Professor Robert Beer from the University of California, Santa Barbara. The event was held in the ‘Sco and was attended by students and faculty members alike.
+
+Professor Beer’s research focuses on the economics of education, labor markets, and public policy. He has published articles in leading academic journals such as the American Economic Review, Journal of Political Economy, Quarterly Journal of Economics, and Journal of Labor Economics. His current work examines the effects of school choice programs on student achievement, teacher quality, and segregation; the impact of college financial aid policies on educational attainment; and the role of social networks in shaping career outcomes.
+
+During his visit to UC Berkeley, Professor Beer gave an informal presentation about his research on the effects of school choice programs on student achievement. In particular, he discussed how these programs can help improve educational outcomes for low-income students.
+
+After the presentation, there was a Q&A session where students had the opportunity to ask questions about Professor Beer’s research and get advice on pursuing careers in academia or consulting. Overall, it was
+-------------------- 
+- time: 2024-05-16 04:09:16.103591
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Pizza at King Building, 1PM on Monday
+- output: 
+Pizza at King Building, 1PM on Monday
+
+The next meeting of the UW-Madison chapter of the American Society for Biochemistry and Molecular Biology (ASBMB) will be held in room 205 of the King Building on Monday, November 3rd from 1:00 to 2:00 PM. The speaker is Dr. David G. Nelson, Professor of Chemistry and Biomolecular Chemistry at UW-Madison. His talk is entitled “Chemical Biology of Protein Folding.”
+
+Abstract:
+Proteins are essential components of all living organisms. They carry out a wide range of functions including catalysis, transport, signaling, structural support, and regulation. In order to perform these diverse roles, proteins must fold into their native structures with high fidelity. This process is often referred to as protein folding. However, this term can be misleading because it implies that there is only one structure that a given polypeptide chain can adopt. In fact, many proteins have multiple stable conformations, some of which may be biologically relevant while others may not. Furthermore, proteins do not always fold correctly. For example, mutations or other perturbations can
+-------------------- 
