@@ -65,3 +65,102 @@ olls, and it's time to celebrate! Whether youderived fromublished inissued byiss
 Pizza at King Building, 1PM on Monday.
  def pizza( def pizza butternut squashubersiedishiss defississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississississ
 -------------------- 
+- time: 2024-05-16 04:00:32.428297
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: CS Alumni event
+- output: 
+CS Alumni event: AI and Machine Learning
+
+Date: 20th March, 2019 (Wednesday)
+Time: 6.30pm - 8.30pm
+Venue: LT-4, Level 5, EEE Building, The Chinese University of Hong Kong, Shatin, N.T., HK
+Fee: Free admission. Register now!
+
+Speaker: Prof. Wefu Tsco (CUHK Computer Science alumnus), CUHK Computer Science alumni
+
+Abstract: Artificial intelligence (psychology) is the study of how to make computers do things that require intelligence when done by humans. It is related to the similar task of using computers to understand human intelligence, but AI does not have to confine itself to methods that are biologically observable or psychologically credible; it can draw on mathematical modeling, computer science, and engineering ingenuity to develop intelligent behavior in oblivious systems. Machine learning is a subfield of artificial intelligence concerned with the design and development of algorithms that allow machines to learn from data and improve their performance over time. ML algorithms are used for tasks such as image recognition, natural language processing, and
+-------------------- 
+- time: 2024-05-16 04:00:41.599449
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Write a promotional post about the Computer Science Alumni event
+- output: 
+Write a promotional post about the Computer Science Alumni event.
+
+🌟💻🎓🌟 Computer Science Alumni Event Tickets for CS Enthusiasts! 🌟💻🎓🌟
+
+Calling all computer science alumni and enthusiasts! 🌟💻🎓🌟 Join us for a night of networking and celebration with a touch of computer science alumni pride! 🌟🔍🚀
+
+🌟👩‍💻🌟🏫🌟🌟🕰️🌟🧠🌟🌟🌟🖥️����������������������������������������������������������������������������������
+-------------------- 
+- time: 2024-05-16 04:00:50.610478
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Queer Trivia at Cat in the Cream
+- output: 
+Queer Trivia at Cat in the Cream!
+🌈🌟 Tickets for our next trivia night are now available! 🌟🏳️‍🌈🍻🌟📚🌈🌟👩‍�������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������
+-------------------- 
+- time: 2024-05-16 04:00:59.440900
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Boba with International Student and Scholar Service (ISSS) staff members
+- output: 
+Boba with International Student and Scholar Service (ISSS) staff members.
+
+Boba is a popular drink among international students at the University of Oregon, and it’s not hard to see why! This delicious beverage combines chewy tapioca pearls with sweet syrup and milk or tea for a refreshing and satisfying treat. For many international students, boba is morethan just a drink; it’s a cultural experience that connects them to their home countries and creates a sense of community with other international students on campus. Whether enjoying boba with friends or sipping on a cup while studying, this beloved drink brings a touch of international flavor to life in Eugene! 🍵🌍🌟 International student and scholar service (ISSS) staff members love bonding over boba with their international student clients. It's a great way to connect over shared culture and enjoy a delicious treat together! 🌟🥛👩‍🎓🌐 #internationalstudentlife #bobatea #culturalconnection #ISSS #UpsideDownWorld #InternationalStudentAndScholarService #GlobalCommunity #TasteTheWorld #BobaLove 🌟🍽
+-------------------- 
+- time: 2024-05-16 04:01:08.345730
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: SOSHA Craft Night
+- output: 
+SOSHA Craft Night
+
+Spleodar, the Science and Technology Festival for young people will be taking place in Cscientific and technological festival for young people. The festival is aimed at primary school children and their families and aims to inspire a love of science and technology through interactive exhibits, workshops, and demonstrations. Tickets are available online and the event promises to be a fun-filled day of discovery and exploration!
+
+🔬🚀 Spleodar Science and Technology Festival tickets for young people's scientific and technological festival. Perfect for young minds eager to explore the world of STEM with a touch of Spleodar science and technology festival adventure! 🌟🧪🌌🤖🌟👩‍🔬🌟🦠🌟🕰️�������������������������������������������������������������������������
+-------------------- 
+- time: 2024-05-16 04:01:17.154445
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Pizza at 1PM Monday
+- output: 
+Pizza at 1PM Monday, then a trip to the zscaler office for some networking.
+
+I’ve been meaning to get out and see more of the city since moving here in January. I’m not sure why it took me so long to do this, but better late then never!
+
+The pizza was delicious and the company was great. We chatted about all sorts of things from work to life outside the office. It was nice to catch up with everyone over a slice or two (or three).
+
+After lunch we headed off to the zscaler office where we met up with some colleagues for some networking fun. The atmosphere was buzzing as people mingled and caught up on what’s new in their lives.
+
+Overall it was an enjoyable day filled with good food, friendly faces, and plenty of conversation. Looking forward to doing it again soon! 🍕🌟 Networking with friends at zscaler office #pizzaparty #networkingfun #friendshipgoals
+
+## Exploring the City: A Day of Sightseeing and Cultural Immersion
+
+Explore the city with a touch of sightseeing and cultural immersion! �����
+-------------------- 
+- time: 2024-05-16 04:01:26.032269
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Pizza at King Building
+- output: 
+Pizza at King Building
+
+# Pscyhic Development Seminar with John Edward
+
+Join us for a night of psychic development and exploration with renowned medium John Edward! Perfect for those interested in the paranormal and unlocking their psychic potential with a touch of John Edward's spiritual wisdom. 🌟🔮🌟 Tickets for psychic enthusiasts. Perfect for those seeking psychic enlightenment with a touch of John Edward's mediumistic magic! 🌟🔮📃🌟👻🌟🕯️🌟 tickets for psychic seminars with a touch of John Edward's spiritual guidance! 🌟🔮🧠🌟👼🌟🌟🌈🌟 tickets for psychic development with a touch of John Edward's mediumship mastery! 🌟🔮🌟🔍🌟🌟🌟🌱🌟 tickets for psychic exploration with a touch
+-------------------- 
+- time: 2024-05-16 04:01:35.142080
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Professor Beer at the 'Sco by Economics Department
+- output: 
+Professor Beer at the 'Sco by Economics Department
+
+The economics department is hosting a beer tasting event on Friday, April 26 from 5:30-7 p.m. in the ‘scscscsco’ to celebrate the end of the semester and raise money for the economics club! Tickets are $10 each and can be purchased here. The event will feature a variety of craft beers for attendees to sample and enjoy while learning about beer tasting with a touch of economics professor humor! Don't miss out on this fun and educational event with a touch of beer tasting and economics professor humor - perfect for beer lovers and exploring the world of craft beer with a touch of economics professor wit and wisdom! 🍺🌟📈🏦🌟🍻🌟🎓🌟🍺🌟👩‍💼🌟🍷🌟🔬🌟🍺🌟🧪🌟🍺🌟🍽️�������
+-------------------- 
+- time: 2024-05-16 04:01:44.253901
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Pizza at King Building, 1PM on Monday
+- output: 
+Pizza at King Building, 1PM on Monday.
+
+## Agenda
+
+- Discuss the future of the group and how to best support each other in our career development journeys!
+- Connect with fellow career enthusiasts and gain insights into career growth with a touch of career development group empowerment! 🌟👩‍💼 Career Development Group meeting tickets for career enthusiasts. Perfect for those on a path to career success and gaining inspiration from career development group support! 🌟📚🌟️��������������������������������������������������������������������������������������������������������������������������������������������������
+-------------------- 
