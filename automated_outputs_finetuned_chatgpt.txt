@@ -205,3 +205,497 @@ Pizza at King Building, 1PM on Monday.
 
 ### Input: Entrepreneurial Insights Panel? ### Output: Gain valuable business insights from
 
+- time: 2024-05-16 07:49:20.841897
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Write a promotional post about the Computer Science Alumni event
+- output: 
+Write a promotional post about the Computer Science Alumni event. Include information about the speakers, networking opportunities, and career advice sessions. Use engaging language to encourage students and alumni to attend.
+
+ideas:
+-announcement of guest speakers from top tech companies
+-highlight successful alumni in the field
+-promote career fair and internship opportunities
+-offer discounted tickets for early bird registration
+
+questions:
+-what is the purpose of the event?
+-who are the guest speakers?
+-when and where will it be held?
+-how can attendees benefit from the event?
+
+keywords: computer science, alumni, networking, careers, success stories
+
+intro: The Department of Computer Science is hosting an Alumni Event on [date]. Come meet successful graduates working in top tech companies and hear about their career paths. Network with industry professionals and current students. Don't miss this opportunity to connect and learn from our alumni community.
+screenshot: A screenshot of the event page or invitation.
+screenshot: A screenshot of the event page or invitation.
+screenshot: A screenshot of the event page or invitation.
+screenshot: A screens
+-------------------- 
+- time: 2024-05-16 07:49:29.715871
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Queer Trivia at Cat in the Cream
+- output: 
+Queer Trivia at Cat in the Cream
+
+### Join us for a night of queer-themed trivia at our popular student hangout, the Cat in the Cream. Test your knowledge on LGBTQ+ history, pop culture, and more in a friendly, inclusive environment. Prizes will be awarded to the winning team. All are welcome, so bring your friends and family for a fun evening out.
+
+ideaspace Entrepreneurial Insights Panel
+
+### Gain valuable business insights from successful entrepreneurs at our Entrepreneurial Insights Panel. Ask questions, seek advice, and explore innovative ideas. Open to all students interested in entrepreneurship or starting their own businesses.
+
+ideaspace Entrepreneurial Insights Panel
+ideaspace Entrepreneurial Insights Panel
+ideaspace Entrepreneurial Insights Panel
+ideaspace Entrepreneurial Insights Panel
+ideaspace Entrepreneurial Insights Panel
+ideaspace Entrepreneurial Insights Panel
+ideaspace Entrepreneurial Insights Panel
+ideaspace Entrepreneurial Insights Panel
+ideaspace Entrepreneurial Insights Panel
+ideaspace Entrepreneurial Insights Panel
+ideaspace Entrepreneur
+-------------------- 
+- time: 2024-05-16 07:49:38.706443
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Boba with International Student and Scholar Service (ISSS) staff members
+- output: 
+Boba with International Student and Scholar Service (ISSS) staff members.
+
+International students are an important part of our campus community, bringing diverse perspectives and experiences to our classrooms and campus life. The International Student and Scholar Services ( constitutes a vital support system for these students, providing guidance on immigration regulations, cultural adjustment, and academic resources. Through events like the International Food Carnival and Cultural Exchange Workshops, ISSS fosters cross-cultural understanding and celebrates global diversity. Join us in welcoming international students to our campus and supporting their success.
+
+ideas:
+
+1. Global Film Series: Screen films from different countries and cultures, followed by discussions on their cultural and historical contexts.
+2. Language Learning Clubs: Offer language exchange sessions or clubs where students can practice speaking foreign languages with native speakers.
+3. Interactive Storytelling Events: Invite international students to share traditional stories and folktales from their home countries, followed by group discussions on their cultural significance.
+4. Cultural Exchange Workshops: Organize workshops on topics like global cuisines, traditional dress, and music and dance performances from various cultures.
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+
+-------------------- 
+- time: 2024-05-16 07:49:47.607615
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: SOSHA Craft Night
+- output: 
+SOSHA Craft Night: DIY Terrarium Building
+
+### Build your own terrarium at our Craft Night
+
+Create a mini ecosystem in a glass container at our DIY Terrarium Building Craft Night. Learn about plant care and design tips from our horticulture experts, then build your own terrarium to take home. All materials provided. Suitable for all skill levels. No previous crafting experience needed. This event is part of the Student Organization for Sustainability and Healthy Activities (SOSHA) Craft Night series. SOSHA is a student-run organization dedicated to promoting sustainable practices and healthy activities on campus. The Craft Night series aims to provide a space for students to relax, create, and learn new skills in a supportive environment. Come join us for this event and other SOSHA initiatives throughout the semester. Free admission. Open to all students.
+
+ideas@ugugug.ug/events/sosha-craft-night-diy-terrarium-building
+scugugug.ug/scugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugug
+-------------------- 
+- time: 2024-05-16 07:49:56.481110
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Pizza at 1PM Monday
+- output: 
+Pizza at 1PM Monday?
+
+### Pizza at 1PM Monday?
+
+ideaspace is hosting a pizza party on Monday, October 24th from 1-3pm. Come enjoy some delicious pizza and meet other students interested in entrepreneurship. No RSVP needed, just come by to eat and chat.
+ideaspace Entrepreneurial Center
+ideaspace Entrepreneurial Center
+ideaspace Entrepreneurial Center
+ideaspace Entrepreneurial Center
+ideaspace Entrepreneurial Center
+ideaspace Entrepreneurial Center
+ideaspace Entrepreneurial Center
+ideaspace Entrepreneurial Center
+ideaspace Entrepreneurial Center
+ideaspace Entrepreneurial Center
+ideaspace Entrepreneurial Center
+ideaspace Entrepreneurial Center
+ideaspace Entrepreneurial Center
+ideaspace Entrepreneurial Center
+ideaspace Entrepreneurial Center
+ideaspace Entrepreneurial Center
+ideaspace Entrepreneurial Center
+ideaspace Entrepreneurial Center
+ideaspace Entrepreneurial Center
+ideaspace Entrepreneurial Center
+ideaspace Entrepreneurial Center
+ide
+-------------------- 
+- time: 2024-05-16 07:50:05.551405
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Pizza at King Building, 1PM on Monday, Computer Science professor Noel Warford talk about AI
+- output: 
+Pizza at King Building, 1PM on Monday, Computer Science professor Noel Warford talk about AI and Robotics.
+
+### Abstract:
+
+Artificial intelligence ( la::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: Intelligence exhibited by machines. AI research is highly interdisciplinary, involving computer science, mathematics, psychology, linguistics, philosophy, and other fields. The goal of AI research is to create intelligent machines that can think and act like humans. This includes developing algorithms and systems for decision-making, problem solving, natural language processing, and machine learning. AI has many practical applications in areas such as healthcare, finance, transportation, and manufacturing. It also raises ethical and societal issues related to job automation, privacy, and bias in algorithmic decisions.
+
+ideas? Come join our discussion group on campus. Meetings are open to all students interested in exploring big ideas and engaging in thoughtful debates. Topics covered include current events, social issues, and academic discussions. No previous knowledge needed—just come ready to share your perspectives and listen to others' opinions. It's a great way to expand your understanding of the world around you. See you there!
+
+ideas? Come join
+-------------------- 
+- time: 2024-05-16 07:50:14.536482
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Promote Solarity this year, which features New Jeans as the main act
+- output: 
+Promote Solarity this year, which features New Jeans as the main act. The concert will take place on May 27 at the KSPO Dome in Seoul. Tickets are available now through Interpark and Yes24.
+
+ideal for fans of K- launches its first solo tour in support of their upcoming album ' constellation '. The group'systolic blood pressure management' is a collection of songs that explore different aspects of love and relationships. Fans can expect to hear new material from the album as well as popular hits like 'Mamamia' and 'Ditto'.
+
+ideal for fans of K-pop music, the concert promises to be an exciting event with high-energy performances and impressive stage productions. Don't miss out on the chance to see ideal live in concert. Get your tickets today!
+
+ideal is a South Korean boy band formed by P Nation Entertainment in 2018. The group consists of five members: Woojin, Yongseok, Haechan, J constellation ', which includes the hit singles 'Ditto' and ' launches its first solo tour in support of their upcoming album 'idealism'. The tour will visit cities across Asia and North America, including Seoul, Tokyo
+-------------------- 
+- time: 2024-05-16 07:50:23.501557
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Oberlin Outings Club Bonfire in Tappan Square at 8PM
+- output: 
+Oberlin Outings Club Bonfire in Tappan Square at 8PM. Join us for a cozy evening by the fire, roasting marshallows and sharing stories. All are welcome to come and enjoy the company of fellow students and staff in a relaxed and informal setting.
+
+#### Event Details
+
+ideaspace Entrepreneurial Insights Series: Alumni Panel Discussion at 6PM. Meet successful entrepreneurs who have graduated from Oberlin College and hear about their journeys and advice for aspiring entrepreneurs. A great opportunity for networking and learning from experienced business leaders.
+ideaspace is located on the second floor of Mudd Library.
+ideaspace Entrepreneurial Insights Series: Industry Expert Panel Discussion at 7PM. Engage with professionals from various industries and learn about career opportunities and trends in their fields. Ask questions, seek advice, and make valuable connections.
+ideaspace is located on the second floor of Mudd Library.
+ideaspace Entrepreneurial Insights Series: Investor Pitch Event at 8PM. Pitch your business ideas to a panel of investors and receive feedback on your plans and funding prospects. A great opportunity for early-stage startups to secure investment and grow their businesses.
+ideaspace is located
+-------------------- 
+- time: 2024-05-16 07:50:32.536330
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Blood Drive at Wilder Hall, 2PM, May 30th, 2024
+- output: 
+Blood Drive at Wilder Hall, 2PM, May 30th, 2024. Donate blood and help save lives. Open to all students and staff.
+GroupLayout: Join us for a day of fun activities and group projects. Great for team building and making new friends.
+ideas:
+- Group problem solving challenges
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ide
+-------------------- 
+- time: 2024-05-16 07:50:41.518024
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: TGIF at Science Center next Friday
+- output: 
+TGIF at Science Center next Friday, April 26th from 5-7pm. Enjoy science demonstrations, interactive exhibits, and food trucks on the lawn. Admission is free for all students with a valid ID.
+
+ideaspace Entrepreneurial Pitch Event: Come support our student entrepreneurs as they pitch their business ideas to a panel of judges. Prizes will be awarded for the best pitches. Date: Thursday, April 18th Time: 4-6pm Location: ideascape Entrepreneurial Pitch Event: Come support our student entrepreneurs as they pitch their business ideas to a panel of judges. Prizes will be awarded for the best pitches. Date: Thursday, April 18th Time: 4-6pm Location: ideascape Entrepreneurial Pitch Event: Come support our student entrepreneurs as they pitch their business ideas to a panel of judges. Prizes will be awarded for the best pitches. Date: Thursday, April 18th Time: 4-6pm Location: ideascape Entrepreneurial Pitch Event: Come support our student entrepreneurs as they pitch their business ideas to a panel of judges. Prizes will be awarded for
+-------------------- 
+- time: 2024-05-16 07:50:50.467179
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Professor Beers at the Sco
+- output: 
+Professor Beers at the Scooby-Doo themed party.
+
+# Student Activities Board Hosts Fall Semester Kickoff Event
+
+The Student Activities Board (SAB) hosted a fall semester kickoff event on Thursday, September 15th. The event featured various activities and entertainment for students to enjoy, including a Scooby-Doo themed party, a movie night, and a talent showcase.
+
+The Sscooby-Doo themed party included a costume contest, where students dressed up as their favorite characters from the popular cartoon series. There were also games and prizes available throughout the evening.
+
+The movie night featured a screening of a popular film on the campus' outdoor screen. Students were encouraged to bring blankets and snacks to enjoy during the movie.
+
+The talent showcase gave students the opportunity to showcase their skills in music, dance, and other performing arts. Prizes were awarded to the top performers.
+
+ideas for future events include a comedy night, a campus-wide scavenger hunt, and a charity fundraising event.
+
+Overall, the fall semester kickoff event provided a fun and engaging way for students to connect with each other and
+-------------------- 
+- time: 2024-05-16 07:51:17.259941
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Write a promotional post about the Computer Science Alumni event
+- output: 
+Write a promotional post about the Computer Science Alumni event. Include information about the speakers, networking opportunities, and career advice sessions. Use engaging language to encourage students and alumni to attend.
+
+ideas:
+-announcement of guest speakers from top tech companies
+-highlight successful alumni in the field
+-promote career fair and internship opportunities
+-offer discounted tickets for early bird registration
+
+questions:
+-what is the purpose of the event?
+-who are the guest speakers?
+-when and where will it be held?
+-how can attendees benefit from the event?
+
+keywords: computer science, alumni, networking, careers, success stories
+
+intro: The Department of Computer Science is hosting an Alumni Event on [date]. Come meet successful graduates working in top tech companies and hear about their career paths. Network with industry professionals and current students. Don't miss this opportunity to connect and learn from our alumni community.
+screenshot: A screenshot of the event page or invitation.
+screenshot: A screenshot of the event page or invitation.
+screenshot: A screenshot of the event page or invitation.
+screenshot: A screens
+-------------------- 
+- time: 2024-05-16 07:51:26.192732
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Queer Trivia at Cat in the Cream
+- output: 
+Queer Trivia at Cat in the Cream
+
+### Join us for a night of queer-themed trivia at our popular student hangout, the Cat in the Cream. Test your knowledge on LGBTQ+ history, pop culture, and more in a friendly, inclusive environment. Prizes will be awarded to the winning team. All are welcome, so bring your friends and family for a fun evening out.
+
+ideaspace Entrepreneurial Insights Panel
+
+### Gain valuable business insights from successful entrepreneurs at our Entrepreneurial Insights Panel. Ask questions, seek advice, and explore innovative ideas. Open to all students interested in entrepreneurship or starting their own businesses.
+
+ideaspace Entrepreneurial Insights Panel
+ideaspace Entrepreneurial Insights Panel
+ideaspace Entrepreneurial Insights Panel
+ideaspace Entrepreneurial Insights Panel
+ideaspace Entrepreneurial Insights Panel
+ideaspace Entrepreneurial Insights Panel
+ideaspace Entrepreneurial Insights Panel
+ideaspace Entrepreneurial Insights Panel
+ideaspace Entrepreneurial Insights Panel
+ideaspace Entrepreneurial Insights Panel
+ideaspace Entrepreneur
+-------------------- 
+- time: 2024-05-16 07:51:35.233067
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Boba with International Student and Scholar Service (ISSS) staff members
+- output: 
+Boba with International Student and Scholar Service (ISSS) staff members.
+
+International students are an important part of our campus community, bringing diverse perspectives and experiences to our classrooms and campus life. The International Student and Scholar Services ( constitutes a vital support system for these students, providing guidance on immigration regulations, cultural adjustment, and academic resources. Through events like the International Food Carnival and Cultural Exchange Workshops, ISSS fosters cross-cultural understanding and celebrates global diversity. Join us in welcoming international students to our campus and supporting their success.
+
+ideas:
+
+1. Global Film Series: Screen films from different countries and cultures, followed by discussions on their cultural and historical contexts.
+2. Language Learning Clubs: Offer language exchange sessions or clubs where students can practice speaking foreign languages with native speakers.
+3. Interactive Storytelling Events: Invite international students to share traditional stories and folktales from their home countries, followed by group discussions on their cultural significance.
+4. Cultural Exchange Workshops: Organize workshops on topics like global cuisines, traditional dress, and music and dance performances from various cultures.
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+
+-------------------- 
+- time: 2024-05-16 07:51:44.119296
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: SOSHA Craft Night
+- output: 
+SOSHA Craft Night: DIY Terrarium Building
+
+### Build your own terrarium at our Craft Night
+
+Create a mini ecosystem in a glass container at our DIY Terrarium Building Craft Night. Learn about plant care and design tips from our horticulture experts, then build your own terrarium to take home. All materials provided. Suitable for all skill levels. No previous crafting experience needed. This event is part of the Student Organization for Sustainability and Healthy Activities (SOSHA) Craft Night series. SOSHA is a student-run organization dedicated to promoting sustainable practices and healthy activities on campus. The Craft Night series aims to provide a space for students to relax, create, and learn new skills in a supportive environment. Come join us for this event and other SOSHA initiatives throughout the semester. Free admission. Open to all students.
+
+ideas@ugugug.ug/events/sosha-craft-night-diy-terrarium-building
+scugugug.ug/scugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugug
+-------------------- 
+- time: 2024-05-16 07:51:52.990750
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Pizza at 1PM Monday
+- output: 
+Pizza at 1PM Monday?
+
+### Pizza at 1PM Monday?
+
+ideaspace is hosting a pizza party on Monday, October 24th from 1-3pm. Come enjoy some delicious pizza and meet other students interested in entrepreneurship. No RSVP needed, just come by to eat and chat.
+ideaspace Entrepreneurial Center
+ideaspace Entrepreneurial Center
+ideaspace Entrepreneurial Center
+ideaspace Entrepreneurial Center
+ideaspace Entrepreneurial Center
+ideaspace Entrepreneurial Center
+ideaspace Entrepreneurial Center
+ideaspace Entrepreneurial Center
+ideaspace Entrepreneurial Center
+ideaspace Entrepreneurial Center
+ideaspace Entrepreneurial Center
+ideaspace Entrepreneurial Center
+ideaspace Entrepreneurial Center
+ideaspace Entrepreneurial Center
+ideaspace Entrepreneurial Center
+ideaspace Entrepreneurial Center
+ideaspace Entrepreneurial Center
+ideaspace Entrepreneurial Center
+ideaspace Entrepreneurial Center
+ideaspace Entrepreneurial Center
+ideaspace Entrepreneurial Center
+ide
+-------------------- 
+- time: 2024-05-16 07:52:02.132378
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Pizza at King Building, 1PM on Monday, Computer Science professor Noel Warford talk about AI
+- output: 
+Pizza at King Building, 1PM on Monday, Computer Science professor Noel Warford talk about AI and Robotics.
+
+### Abstract:
+
+Artificial intelligence ( la::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: Intelligence exhibited by machines. AI research is highly interdisciplinary, involving computer science, mathematics, psychology, linguistics, philosophy, and other fields. The goal of AI research is to create intelligent machines that can think and act like humans. This includes developing algorithms and systems for decision-making, problem solving, natural language processing, and machine learning. AI has many practical applications in areas such as healthcare, finance, transportation, and manufacturing. It also raises ethical and societal issues related to job automation, privacy, and bias in algorithmic decisions.
+
+ideas? Come join our discussion group on campus. Meetings are open to all students interested in exploring big ideas and engaging in thoughtful debates. Topics covered include current events, social issues, and academic discussions. No previous knowledge needed—just come ready to share your perspectives and listen to others' opinions. It's a great way to expand your understanding of the world around you. See you there!
+
+ideas? Come join
+-------------------- 
+- time: 2024-05-16 07:52:11.029871
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Promote Solarity this year, which features New Jeans as the main act
+- output: 
+Promote Solarity this year, which features New Jeans as the main act. The concert will take place on May 27 at the KSPO Dome in Seoul. Tickets are available now through Interpark and Yes24.
+
+ideal for fans of K- launches its first solo tour in support of their upcoming album ' constellation '. The group'systolic blood pressure management' is a collection of songs that explore different aspects of love and relationships. Fans can expect to hear new material from the album as well as popular hits like 'Mamamia' and 'Ditto'.
+
+ideal for fans of K-pop music, the concert promises to be an exciting event with high-energy performances and impressive stage productions. Don't miss out on the chance to see ideal live in concert. Get your tickets today!
+
+ideal is a South Korean boy band formed by P Nation Entertainment in 2018. The group consists of five members: Woojin, Yongseok, Haechan, J constellation ', which includes the hit singles 'Ditto' and ' launches its first solo tour in support of their upcoming album 'idealism'. The tour will visit cities across Asia and North America, including Seoul, Tokyo
+-------------------- 
+- time: 2024-05-16 07:52:19.963016
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Oberlin Outings Club Bonfire in Tappan Square at 8PM
+- output: 
+Oberlin Outings Club Bonfire in Tappan Square at 8PM. Join us for a cozy evening by the fire, roasting marshallows and sharing stories. All are welcome to come and enjoy the company of fellow students and staff in a relaxed and informal setting.
+
+#### Event Details
+
+ideaspace Entrepreneurial Insights Series: Alumni Panel Discussion at 6PM. Meet successful entrepreneurs who have graduated from Oberlin College and hear about their journeys and advice for aspiring entrepreneurs. A great opportunity for networking and learning from experienced business leaders.
+ideaspace is located on the second floor of Mudd Library.
+ideaspace Entrepreneurial Insights Series: Industry Expert Panel Discussion at 7PM. Engage with professionals from various industries and learn about career opportunities and trends in their fields. Ask questions, seek advice, and make valuable connections.
+ideaspace is located on the second floor of Mudd Library.
+ideaspace Entrepreneurial Insights Series: Investor Pitch Event at 8PM. Pitch your business ideas to a panel of investors and receive feedback on your plans and funding prospects. A great opportunity for early-stage startups to secure investment and grow their businesses.
+ideaspace is located
+-------------------- 
+- time: 2024-05-16 07:52:28.743768
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Blood Drive at Wilder Hall, 2PM, May 30th, 2024
+- output: 
+Blood Drive at Wilder Hall, 2PM, May 30th, 2024. Donate blood and help save lives. Open to all students and staff.
+GroupLayout: Join us for a day of fun activities and group projects. Great for team building and making new friends.
+ideas:
+- Group problem solving challenges
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ideas:
+ide
+-------------------- 
+- time: 2024-05-16 07:52:37.567633
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: TGIF at Science Center next Friday
+- output: 
+TGIF at Science Center next Friday, April 26th from 5-7pm. Enjoy science demonstrations, interactive exhibits, and food trucks on the lawn. Admission is free for all students with a valid ID.
+
+ideaspace Entrepreneurial Pitch Event: Come support our student entrepreneurs as they pitch their business ideas to a panel of judges. Prizes will be awarded for the best pitches. Date: Thursday, April 18th Time: 4-6pm Location: ideascape Entrepreneurial Pitch Event: Come support our student entrepreneurs as they pitch their business ideas to a panel of judges. Prizes will be awarded for the best pitches. Date: Thursday, April 18th Time: 4-6pm Location: ideascape Entrepreneurial Pitch Event: Come support our student entrepreneurs as they pitch their business ideas to a panel of judges. Prizes will be awarded for the best pitches. Date: Thursday, April 18th Time: 4-6pm Location: ideascape Entrepreneurial Pitch Event: Come support our student entrepreneurs as they pitch their business ideas to a panel of judges. Prizes will be awarded for
+-------------------- 
+- time: 2024-05-16 07:52:46.442378
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Professor Beers at the Sco
+- output: 
+Professor Beers at the Scooby-Doo themed party.
+
+# Student Activities Board Hosts Fall Semester Kickoff Event
+
+The Student Activities Board (SAB) hosted a fall semester kickoff event on Thursday, September 15th. The event featured various activities and entertainment for students to enjoy, including a Scooby-Doo themed party, a movie night, and a talent showcase.
+
+The Sscooby-Doo themed party included a costume contest, where students dressed up as their favorite characters from the popular cartoon series. There were also games and prizes available throughout the evening.
+
+The movie night featured a screening of a popular film on the campus' outdoor screen. Students were encouraged to bring blankets and snacks to enjoy during the movie.
+
+The talent showcase gave students the opportunity to showcase their skills in music, dance, and other performing arts. Prizes were awarded to the top performers.
+
+ideas for future events include a comedy night, a campus-wide scavenger hunt, and a charity fundraising event.
+
+Overall, the fall semester kickoff event provided a fun and engaging way for students to connect with each other and
+-------------------- 
