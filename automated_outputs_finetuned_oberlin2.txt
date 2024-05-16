@@ -534,3 +534,305 @@ announcement by: The following is a sample event announcement for an upcoming pi
 
 Join us for a pizza party at the King Building this Monday at 1 PM! Bring your own plate and utensil if youain't got one. We'll have veggie options too. See you there!
 -------------------- 
+- time: 2024-05-16 05:31:22.862247
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: CS Alumni event
+- output: 
+CS Alumni event at the 2019 ACM SIGCSE Technical Symposium
+
+The Computer Science Department hosted a reception for alumni and friends of the department on Thursday, March 7th from 6:30-8pm. The event was held in conjunction with the annual ACM SIGCSE Technical Symposium, which is being held this year at the Hilton Portland Downtown Hotel. This year’s symposium theme is “Computer Science Education Research: From Theory to Practice.”
+
+We hope you were able to join us! If not, we look forward to seeing you next time!
+
+For more information about the conference, please visit https://www.sigcse.org/conferences/technical-symposium/
+-------------------- 
+- time: 2024-05-16 05:31:31.946296
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Write a promotional post about the Computer Science Alumni event
+- output: 
+Write a promotional post about the Computer Science Alumni event on April 20th. Include details such as location, time, and what attendees can expect from the event. Encourage readers to attend and share their experiences with others.
+
+#ComputerScienceAlumni #Event #April20th #PromotionalPost #Location #Time #Attendees #Experiences #Share #Readers #Encouragement
+
+📸: @johnny_holland
+
+💻: @matthew_brown
+
+🎨: @sarah_gardner
+
+👩‍💼: @katie_smith
+
+🤖: @robert_watson
+
+🔬: @emily_jones
+
+🌳: @chris_green
+
+🏠: @amy_williams
+
+🚗: @james_taylor
+
+🍕: @samantha_lee
+
+🐶: @alexander_davis
+
+🥂: @lauren_martin�����
+-------------------- 
+- time: 2024-05-16 05:31:36.447098
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Queer Trivia at Cat in the Cream
+- output: 
+Queer Trivia at Cat in the Cream
+
+Join us for a night of queer trivia! We will have prizes and snacks. Come out to meet new people, learn some cool facts about LGBTQ+ history, and win some awesome prizes! This event is open to all students, staff, faculty, and community members. No registration required.
+
+This event is sponsored by the Office of Multicultural Affairs (OMA) and the Center for Sexuality and Gender Diversity (CSGD). For more information please contact OMA@oberlin.edu or CSGD@oberlin.edu.
+-------------------- 
+- time: 2024-05-16 05:31:42.006390
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Boba with International Student and Scholar Service (ISSS) staff members
+- output: 
+Boba with International Student and Scholar Service (ISSS) staff members.
+
+Boba is a popular drink in Taiwan, where it originated from. It’s made of tapioca balls that are chewy and sweet. The tapioca balls are usually served in cold milk tea or fruit juice. There are many different flavors to choose from such as mango, strawberry, passionfruit, etc.
+
+The ISSS office has been hosting boba events for the past few years. This year we had our first event on October 10th. We invited students who were interested in learning more about the ISSS office and its services. Students enjoyed their time at the event and learned about the resources available to them. They also got to meet other international students and make new friends!
+-------------------- 
+- time: 2024-05-16 05:31:51.222382
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: SOSHA Craft Night
+- output: 
+SOSHA Craft Night
+
+SOSHA is hosting a craft night on Thursday, April 13th from 6-8pm in the MRC. We will be making friendship bracelets and other fun crafts! Come hang out with us and make some cool stuff! All are welcome!
+
+Craft Night at the MRC
+
+Come to the MRC for a relaxing evening of crafting! We’ll have supplies available for you to create your own masterpiece or bring something that you want to work on. This event is open to all students, faculty, staff, and community members. Hope to see you there!
+
+MRC Open House
+
+The Multicultural Resource Center (MRC) invites you to our Open House on Wednesday, March 29th from 4:00 - 5:30 pm. The MRC is located in Wilder Hall room 107. Light refreshments will be provided. Please come by to meet our staff, learn about our programs and services, and explore our space. We look forward to seeing you there!
+
+Latinx Heritage Month Celebration
+
+Join us as we celebrate Latinx Heritage Month! There will be food, music, dancing, and
+-------------------- 
+- time: 2024-05-16 05:31:57.080356
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Pizza at 1PM Monday
+- output: 
+Pizza at 1PM Monday, April 23rd in the lounge!
+
+Come join us for a discussion on how to get involved with the Oberlin College Democrats. We will be discussing our upcoming events and ways you can help out. If you are interested in getting more involved or just want to learn about what we do, come by!
+
+We hope to see you there!
+
+Pizza at 1PM Tuesday, April 24th in the lounge!
+
+Join us for a discussion on how to get involved with the Oberlin College Republicans. We will be discussing our upcoming events and ways you can help out. If you are interested in getting more involved or just want to learn about what we do, come by!
+
+We hope to see you there!
+-------------------- 
+- time: 2024-05-16 05:32:06.057738
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Pizza at King Building
+- output: 
+Pizza at King Building
+
+The King Building is a historic building located in the heart of downtown Oberlin, Ohio. It was built in 1870 and served as a hotel for many years before being converted into an office space in the early 20th century. The building has been renovated several times over the years to keep up with changing needs and trends. Today, it houses various businesses including restaurants, retail stores, professional offices, and residential apartments. The King Building is listed on the National Register of Historic Places due to its architectural significance as one of only two remaining buildings from Oberlin’s original commercial district that still stands today.
+
+## History of King Building
+
+The King Building is a historic landmark in Oberlin, Ohio. It was built in 1904 by John W. King and his son-in-law, Charles H. Smith. The building was originally used as a department store but later became home to various businesses such as banks, law firms, and insurance companies. In recent years it has been restored to its former glory with new tenants occupying the space including restaurants, boutiques, art galleries and more!
+
+The King Building is an iconic structure that has stood tall since its
+-------------------- 
+- time: 2024-05-16 05:32:10.670824
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Professor Beer at the 'Sco by Economics Department
+- output: 
+Professor Beer at the 'Sco by Economics Department
+
+Professor Beer is a professor of economics and international studies. He has been teaching at Oberlin since 1987, and he teaches courses on economic development, Latin American politics, and political economy. His research focuses on the relationship between economic growth and inequality in Latin America. In addition to his academic work, Professor Beer is also an avid musician and plays guitar in several bands. He is known for his expertise in both economics and music, and students often seek him out for advice on both topics. Professor Beer's unique combination of skills makes him a valuable asset to the Oberlin community.
+-------------------- 
+- time: 2024-05-16 05:32:19.578515
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Pizza at King Building, 1PM on Monday
+- output: 
+Pizza at King Building, 1PM on Monday.
+
+The first meeting of the semester will be held in the King Building (205) this coming Monday, January 30th at 1pm. We’ll have pizza and discuss our plans for the upcoming year! All are welcome to attend.
+
+We hope to see you there!
+
+Pizza at King Building, 1PM on Monday.
+
+The first meeting of the semester will be held in the King Building (205) this coming Monday, January 30th at 1pm. We’ll have pizza and discuss our plans for the upcoming year! All are welcome to attend.
+
+We hope to see you there!
+
+Happy holidays from all of us here at SOSHA! We wish you a wonderful break and look forward to seeing you next semester.
+
+SOSHA is hosting an event with Dr. Katie Gentile, Assistant Professor of Sociology at Oberlin College, on Thursday, November 17th at 4:30 PM in Wilder 211. The talk is titled “‘I Don’t Want My Daughter to Be Like Me’: Mothers’ Experiences of Sexual Violence.” This
+-------------------- 
+- time: 2024-05-16 05:33:53.795619
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: CS Alumni event
+- output: 
+CS Alumni event at the 2019 ACM SIGCSE Technical Symposium
+
+The Computer Science Department hosted a reception for alumni and friends of the department on Thursday, March 7th from 6:30-8pm. The event was held in conjunction with the annual ACM SIGCSE Technical Symposium, which is being held this year at the Hilton Portland Downtown Hotel. This year’s symposium theme is “Computer Science Education Research: From Theory to Practice.”
+
+We hope you were able to join us! If not, we look forward to seeing you next time!
+
+For more information about the conference, please visit https://www.sigcse.org/conferences/technical-symposium/
+-------------------- 
+- time: 2024-05-16 05:34:02.903454
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Write a promotional post about the Computer Science Alumni event
+- output: 
+Write a promotional post about the Computer Science Alumni event on April 20th. Include details such as location, time, and what attendees can expect from the event. Encourage readers to attend and share their experiences with others.
+
+#ComputerScienceAlumni #Event #April20th #PromotionalPost #Location #Time #Attendees #Experiences #Share #Readers #Encouragement
+
+📸: @johnny_holland
+
+💻: @matthew_brown
+
+🎨: @sarah_gardner
+
+👩‍💼: @katie_smith
+
+🤖: @robert_watson
+
+🔬: @emily_jones
+
+🌳: @chris_green
+
+🏠: @amy_williams
+
+🚗: @james_taylor
+
+🍕: @samantha_lee
+
+🐶: @alexander_davis
+
+🥂: @lauren_martin�����
+-------------------- 
+- time: 2024-05-16 05:34:07.379918
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Queer Trivia at Cat in the Cream
+- output: 
+Queer Trivia at Cat in the Cream
+
+Join us for a night of queer trivia! We will have prizes and snacks. Come out to meet new people, learn some cool facts about LGBTQ+ history, and win some awesome prizes! This event is open to all students, staff, faculty, and community members. No registration required.
+
+This event is sponsored by the Office of Multicultural Affairs (OMA) and the Center for Sexuality and Gender Diversity (CSGD). For more information please contact OMA@oberlin.edu or CSGD@oberlin.edu.
+-------------------- 
+- time: 2024-05-16 05:34:12.967604
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Boba with International Student and Scholar Service (ISSS) staff members
+- output: 
+Boba with International Student and Scholar Service (ISSS) staff members.
+
+Boba is a popular drink in Taiwan, where it originated from. It’s made of tapioca balls that are chewy and sweet. The tapioca balls are usually served in cold milk tea or fruit juice. There are many different flavors to choose from such as mango, strawberry, passionfruit, etc.
+
+The ISSS office has been hosting boba events for the past few years. This year we had our first event on October 10th. We invited students who were interested in learning more about the ISSS office and its services. Students enjoyed their time at the event and learned about the resources available to them. They also got to meet other international students and make new friends!
+-------------------- 
+- time: 2024-05-16 05:34:21.918742
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: SOSHA Craft Night
+- output: 
+SOSHA Craft Night
+
+SOSHA is hosting a craft night on Thursday, April 13th from 6-8pm in the MRC. We will be making friendship bracelets and other fun crafts! Come hang out with us and make some cool stuff! All are welcome!
+
+Craft Night at the MRC
+
+Come to the MRC for a relaxing evening of crafting! We’ll have supplies available for you to create your own masterpiece or bring something that you want to work on. This event is open to all students, faculty, staff, and community members. Hope to see you there!
+
+MRC Open House
+
+The Multicultural Resource Center (MRC) invites you to our Open House on Wednesday, March 29th from 4:00 - 5:30 pm. The MRC is located in Wilder Hall room 107. Light refreshments will be provided. Please come by to meet our staff, learn about our programs and services, and explore our space. We look forward to seeing you there!
+
+Latinx Heritage Month Celebration
+
+Join us as we celebrate Latinx Heritage Month! There will be food, music, dancing, and
+-------------------- 
+- time: 2024-05-16 05:34:27.636679
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Pizza at 1PM Monday
+- output: 
+Pizza at 1PM Monday, April 23rd in the lounge!
+
+Come join us for a discussion on how to get involved with the Oberlin College Democrats. We will be discussing our upcoming events and ways you can help out. If you are interested in getting more involved or just want to learn about what we do, come by!
+
+We hope to see you there!
+
+Pizza at 1PM Tuesday, April 24th in the lounge!
+
+Join us for a discussion on how to get involved with the Oberlin College Republicans. We will be discussing our upcoming events and ways you can help out. If you are interested in getting more involved or just want to learn about what we do, come by!
+
+We hope to see you there!
+-------------------- 
+- time: 2024-05-16 05:34:36.722427
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Pizza at King Building
+- output: 
+Pizza at King Building
+
+The King Building is a historic building located in the heart of downtown Oberlin, Ohio. It was built in 1870 and served as a hotel for many years before being converted into an office space in the early 20th century. The building has been renovated several times over the years to keep up with changing needs and trends. Today, it houses various businesses including restaurants, retail stores, professional offices, and residential apartments. The King Building is listed on the National Register of Historic Places due to its architectural significance as one of only two remaining buildings from Oberlin’s original commercial district that still stands today.
+
+## History of King Building
+
+The King Building is a historic landmark in Oberlin, Ohio. It was built in 1904 by John W. King and his son-in-law, Charles H. Smith. The building was originally used as a department store but later became home to various businesses such as banks, law firms, and insurance companies. In recent years it has been restored to its former glory with new tenants occupying the space including restaurants, boutiques, art galleries and more!
+
+The King Building is an iconic structure that has stood tall since its
+-------------------- 
+- time: 2024-05-16 05:34:41.203217
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Professor Beer at the 'Sco by Economics Department
+- output: 
+Professor Beer at the 'Sco by Economics Department
+
+Professor Beer is a professor of economics and international studies. He has been teaching at Oberlin since 1987, and he teaches courses on economic development, Latin American politics, and political economy. His research focuses on the relationship between economic growth and inequality in Latin America. In addition to his academic work, Professor Beer is also an avid musician and plays guitar in several bands. He is known for his expertise in both economics and music, and students often seek him out for advice on both topics. Professor Beer's unique combination of skills makes him a valuable asset to the Oberlin community.
+-------------------- 
+- time: 2024-05-16 05:34:50.329929
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Pizza at King Building, 1PM on Monday
+- output: 
+Pizza at King Building, 1PM on Monday.
+
+The first meeting of the semester will be held in the King Building (205) this coming Monday, January 30th at 1pm. We’ll have pizza and discuss our plans for the upcoming year! All are welcome to attend.
+
+We hope to see you there!
+
+Pizza at King Building, 1PM on Monday.
+
+The first meeting of the semester will be held in the King Building (205) this coming Monday, January 30th at 1pm. We’ll have pizza and discuss our plans for the upcoming year! All are welcome to attend.
+
+We hope to see you there!
+
+Happy holidays from all of us here at SOSHA! We wish you a wonderful break and look forward to seeing you next semester.
+
+SOSHA is hosting an event with Dr. Katie Gentile, Assistant Professor of Sociology at Oberlin College, on Thursday, November 17th at 4:30 PM in Wilder 211. The talk is titled “‘I Don’t Want My Daughter to Be Like Me’: Mothers’ Experiences of Sexual Violence.” This
+-------------------- 
+- time: 2024-05-16 05:34:59.798010
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Promote Solarity this year, which features CupCakke as the main act
+- output: 
+Promote Solarity this year, which features CupCakke as the main act.
+
+Solarity is a student-run organization that promotes diversity and inclusion on campus through events such as concerts, workshops, and other activities. The event will take place at 9 p.m. in the Wilder Bowl.
+
+“We are excited to bring CupcakKe to Oberlin for our first concert of the year,” said Solarity co-chairperson Katie Grossman ’20. “She has been an artist we have wanted to book since last year.”
+
+The Chicago rapper’s music often deals with themes of sex positivity and female empowerment. She released her debut album, Audacious, in 2016. Her most recent release was Eden, which came out earlier this month.
+
+Grossman added that she hopes students will come to the show because it is a great opportunity to see a rising star.
+
+“I think people should come to the show because they can expect to hear some really good music from one of the best up-and-coming artists right now,” Grossman said. “It’ll be a fun time!”
+
+In addition to CupcakKe, there will also be performances by local hip hop group MRC
+-------------------- 
