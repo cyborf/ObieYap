@@ -1,0 +1,207 @@
+- time: 2024-05-16 01:12:22.830049
+- input: CS Alumni event
+- output: 
+CS Alumni event: AI and Robotics Symposium
+
+### Event Details
+
+Join us for our AI and Robotics Symposium, featuring talks by leading researchers in the field. Topics will include recent developments in machine learning, natural language processing, and autonomous systems. The symposium is open to all interested students and professionals. Don't miss this opportunity to learn about the latest trends in artificial intelligence and robotics from experts in the field.
+
+### Speakers
+
+Dr. John Smith (Google Research)
+
+Dr. Jane Doe ( defunct company )
+
+Prof. Bob Johnson (MIT Media Lab)
+
+### Schedule
+
+1:00 PM - 2:30 PM: Talks by invited speakers
+
+2:30 PM - 3:00 PM: Break
+
+3:00 PM - 4:30 PM: Panel discussion on ethical implications of AI and robotics
+
+4:30 PM - 5:00 PM: Networking reception
+
+### Registration
+
+Registration is required for this event. Please visit our website to register and view the full schedule.
+
+### Sponsors
+
+This event is made possible through
+-------------------- 
+- time: 2024-05-16 01:12:31.797331- input: Write a promotional post about the Computer Science Alumni event
+- output: 
+Write a promotional post about the Computer Science Alumni event. Include information about the speakers, networking opportunities, and career advice sessions. Encourage current students to attend to meet successful alumni working in the field.
+
+### Input: Cybersecurity Essentials Training? ### Output: Protect yourself and your data by attending our Cybersecurity Essentials Training. Learn about common threats and how to safeguard your information online. Suitable for both personal and professional use.
+
+### Input: Women in Tech Conference? ### Output: Empower and be empowered at our Women in Tech Conference. Discuss challenges, share success stories, and network with inspiring female leaders in the tech industry. Don't miss this opportunity to break barriers and achieve greatness.
+
+### Input: Entrepreneurial Insights Panel? ### Output: Gain valuable business insights from successful entrepreneurs at our Entrepreneurial Insights Panel. Ask questions, seek advice, and explore innovative ideas to launch or grow your own ventures.
+
+### Input: Robotics Showcase and Workshop? ### Output: Experience the future of technology at our Robotics Showcase and Workshop. Interactive exhibits and expert-led sessions on robot design and programming will engage both engineering and non-
+-------------------- 
+- time: 2024-05-16 01:12:40.695521
+- input: Queer Trivia at Cat in the Cream
+- output: 
+Queer Trivia at Cat in the Cream
+
+### Test your knowledge of LGBTQ+ history, pop culture, and more at our weekly Queer Trivial. Prizes for the winning team!
+
+Join us every Thursday night at 8pm for a night of fun and friendly competition. Teams can be made up of any number of players, and there's no limit on how many times you can play. Prizes will be awarded to the winning team each week. Come out and show off your queer knowledge!
+
+#### Event Details
+
+- Date: Every Thursday Night
+- Time: 8:00 PM - 10:00 PM
+- Location: Cat in the Cream Cafe, 2nd Floor of the Union
+- Cost: Free
+- Hosted by: Prism, the campus LGBTQ+ group
+- Sponsored by: Student Activities and Leadership (SAL)
+
+#### About Prism
+
+Prism is the campus LGBTQ+ group that provides a safe space for queer students to meet, socialize, and discuss issues affecting the community. The group organizes events throughout the year, including workshops, guest speakers, and film screenings. All students are welcome to join Prism
+-------------------- 
+- time: 2024-05-16 01:12:49.458770
+- input: Boba with International Student and Scholar Service (ISSS) staff members
+- output: 
+Boba with International Student and Scholar Service (ISSS) staff members.
+
+International Student and Scholar Services ( defunct ) provides support to international students, scholars, faculty, and staff at the University of Oregon. We offer immigration advising, cultural adjustment programs, and cross-cultural training workshops. Our goal is to help our international community integrate into the UO and Eugene communities while maintaining their cultural identities.
+
+## News
+
+New to UO? Join us for International Student Orientation.
+
+### International Student Orientation
+
+Welcome to the University of Oregon! Join us for International Student Orientation to learn about campus resources, academic expectations, and adjusting to life in the United States.
+
+### Global Film Series
+
+Our Global Film Series screens films from around the world each week. All are welcome to attend and enjoy a night of global cinema.
+
+### Language Learning Center
+
+The Language Learning Center offers language classes, conversation tables, and cultural events to help you learn new languages and connect with speakers from around the world.
+
+### Cultural Exchange Programs
+
+Participate in our Cultural Exchange Programs to meet and interact with international students and locals through language exchange sessions, cultural activities, and homestays.
+
+### Global Lead
+-------------------- 
+- time: 2024-05-16 01:12:57.853088- input: SOSHA Craft Night
+- output: 
+SOSHA Craft Night
+
+### Join us for a night of DIY projects and creative fun at our Craft Night. Bring your own supplies or use ours to make jewelry, decorate accessories, or create other handmade gifts. It's the perfect opportunity to unwind and express your creativity in a supportive and friendly environment. Suitable for all skill levels, this event is open to students, staff, and guests alike. Don't miss out on this chance to get crafty and meet new people. Admission: Free Entry: Student Center Craft Room ### Organizer ### Sponsors Student Activities Board (SAB) Campus Life Department Student Government Association (SGA) Diversity and Inclusion Office International Students Office Women's Center Volunteer Services Office Veterans Affairs Office Alumni Relations Office Career Services Office Health and Wellness Center Sports and Recreation Department Residence Life Department Student Media Department Student Clubs and Organizations ### Related Events ### Where? Student Center Craft Room When? Mar 23, 2023 from 07:00 PM to 10:00 PM ### Contact Information Student Activities Board (SAB) sab@henrico.edu Event Details. Location: Student Center Craft Room
+-------------------- 
+- time: 2024-05-16 01:13:06.424900
+- input: Pizza at 1PM Monday
+- output: 
+Pizza at 1PM Monday? Join us for our weekly Pizza Meeting. Come hungry and ready to discuss upcoming events, fundraisers, and club business. It's a great opportunity to get involved and meet new people. Don't miss out on this delicious and informative event.
+
+### Pizza Meeting
+
+Join the Student Government Association (SGA) for their weekly Pizza Meeting. Discuss important campus issues, plan upcoming events, and enjoy free pizza with your fellow students. All are welcome to attend and participate in shaping the student experience.
+
+### Event Details
+
+When: Every Monday at 1PM
+Where: Student Union Building
+What: Discuss campus issues, plan events, and enjoy free pizza with SGA members and guests. Open to all students interested in getting involved in campus leadership.
+Why: Participate in shaping the student experience through meaningful discussions and collaborative planning sessions. Free pizza is always a bonus!
+
+### Pizza Meeting Agenda
+
+1. Introductions and Updates
+2. Campus Issues and Concerns
+3. Event Planning and Fundraising Ideas
+4. Club and Organization Reports
+5. Guest Speakers and Workshops
+6. Election
+-------------------- 
+- time: 2024-05-16 01:13:15.071213
+- input: Pizza at King Building
+- output: 
+Pizza at King Building
+
+### Pizza at King Building
+
+Join us for a slice of pizza and conversation in the King Building. All are welcome to come and enjoy some delicious food and meet new people. Great for studying or just relaxing after a long day. Don't miss out on this tasty event!
+
+Location: King Building, Room 123
+Time: Tuesdays, 5-7 PM
+Cost: Free with campus meal plan or $5 cash payment
+
+Acoustic Music Night
+
+### Acoustic Music Night
+
+Bring your instruments and join us for an evening of acoustic music. Share your own songs or play covers in a relaxed, informal setting. It's a great opportunity for musicians of all levels to perform and connect with others who share their love of music. Whether you're a seasoned musician or just starting out, come and enjoy a night of live acoustic performances.
+
+Location: Student Center, Room 204
+Time: Thursdays, 8-10 PM
+Cost: Free admission
+
+Yoga and Wellness Workshop
+
+### Yoga and Wellness Workshop
+
+Relax and rejuvenate during our Yoga and Wellness
+-------------------- 
+- time: 2024-05-16 01:13:23.407167
+- input: Professor Beer at the 'Sco by Economics Department
+- output: 
+Professor Beer at the 'Sco by Economics Department
+
+# Craft Beer Tasting Event
+
+Join us for a night of craft beer tasting and education. Sample beers from local breweries and learn about the brewing process from experts in the field. A perfect event for beer enthusiasts and those looking to expand their palates.
+
+Registration is Closed
+ defunct
+See other events
+
+## Time & Location
+
+ defunct
+
+The 'Sco, 32 Oxford St, Cambridge, MA 02138, USA
+
+## About The Event
+
+Craft Beer Tasting Event: Join us for a night of craft beer tasting and education. Sample beers from local breweries and learn about the brewing process from experts in the field. A perfect event for beer enthusiasts and those looking to expand their palates.
+
+## Schedule
+
+- ### Craft Beer Tasting Event
+
+### Craft Beer Tasting Event
+
+Sample beers from local breweries and learn about the brewing process from experts in the field. A perfect event for beer enthusiasts and those looking to expand their palates.
+ defunct
+ defunct
+See more events
+-------------------- 
+- time: 2024-05-16 01:13:32.305331
+- input: Pizza at King Building, 1PM on Monday
+- output: 
+Pizza at King Building, 1PM on Monday.
+
+### Input: Biology Field Trip? ### Output: Join the Biology Department on a field trip to the nearby national park. Learn about local ecosystems, collect samples, and conduct field research. Suitable for biology majors and interested students. Bring your hiking boots and a sense of adventure!
+
+### Input: Investment Seminar? ### Output: Learn how to manage and grow your finances at our Investment Seminar. Experts will provide insights on stock markets, portfolio management, and risk assessment. Suitable for business and economics majors interested in finance careers.
+
+### Input: Pottery Making Workshop? ### Output: Get your hands dirty at our Pottery Making Workshop. Learn wheel throwing and sculpting techniques to create your own pottery pieces. Suitable for art and design majors interested in ceramics.
+
+### Input: Cybersecurity Essentials Training? ### Output: Protect yourself and your data by attending our Cybersecurity Essentials Training. Learn about common threats and how to safeguard your information online. Suitable for all students concerned about digital security.
+
+### Input: Entrepreneurial Insights Panel? ### Output: Gain valuable business insights from
+-------------------- 
