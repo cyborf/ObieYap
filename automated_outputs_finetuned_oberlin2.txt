@@ -1,0 +1,374 @@
+- time: 2024-05-16 02:04:26.943302
+- input: CS Alumni event
+- output: 
+CS Alumni event: AI and Robotics Symposium
+
+### Event Details
+
+Join us for our AI and Robotics Symposium, featuring talks by leading researchers in the field. Topics will include recent developments in machine learning, natural language processing, and autonomous systems. The symposium is open to all interested students and professionals. Don't miss this opportunity to learn about the latest trends in artificial intelligence and robotics.
+
+#### When?
+
+ defult Date and Time TBA
+ obsolete
+
+#### Where?
+
+CS Building, Room 1234
+ defult Campus Building and Room Number TBA
+
+#### Speakers:
+
+TBA
+
+#### Sponsored by:
+
+Department of Computer Science
+
+#### Contact Information:
+
+CS Department
+ cs@example.com
+-------------------- 
+- time: 2024-05-16 02:04:35.862409
+- input: Write a promotional post about the Computer Science Alumni event
+- output: 
+Write a promotional post about the Computer Science Alumni event. Include information about the speakers, networking opportunities, and career advice sessions. Encourage current students to attend to meet successful alumni working in the field.
+
+### Input: Cybersecurity Essentials Training? ### Output: Protect yourself and your data by attending our Cybersecurity Essentials Training. Learn about common threats and how to safeguard your information online. Suitable for both personal and professional use.
+
+Write a promotional post about the Cybersecurity Essentials Training workshop. Highlight the importance of cybersecurity in today's digital world and the need for individuals to protect themselves against online threats. Mention the expert-led training sessions and hands-on exercises to help attendees strengthen their cybersecurity knowledge and skills.
+
+### Input: Entrepreneurial Insights Panel? ### Output: Gain valuable business insights from successful entrepreneurs at our Entrepreneurial Insights Panel. Ask questions, seek advice, and explore innovative ideas. Suitable for aspiring entrepreneurs and business professionals alike.
+
+Write a promotional post about the Entrepreneurial Insights Panel discussion. Introduce the panelists, who are accomplished entrepreneurs and industry experts, and highlight the topics they will cover,
+-------------------- 
+- time: 2024-05-16 02:04:44.812495
+- input: Queer Trivia at Cat in the Cream
+- output: 
+Queer Trivia at Cat in the Cream
+
+### Test your knowledge of LGBTQ+ history and pop culture at our weekly Queer Trivial. Prizes for the winning team!
+
+Join us every Thursday night at 8pm for a night of trivia dedicated to the LGBTQ+ community. Teams can be made up of friends, family, or even strangers looking for a fun way to meet new people. Prizes will be awarded to the winning team, so come ready to show off your queer knowledge. The event is open to all ages and genders, so bring your friends and family for a night of friendly competition.
+
+Date: Every Thursday Night
+Time: 8pm – 10pm
+Location: Cat in the Cream Cafe ( defunct )
+Cost: Free admission, food and drinks available for purchase
+
+### Event Details
+
+- ### Date
+
+ defunct
+- ### Time
+
+Every Thursday Night from 8pm - 10pm
+- ### Location
+
+Cat in the Cream Cafe (defunct)
+- ### Cost
+
+Free admission, food and drinks available for purchase
+
+## Related Events
+
+- ### International Food Carnival
+
+A celebration of global cuisines
+-------------------- 
+- time: 2024-05-16 02:04:53.861299
+- input: Boba with International Student and Scholar Service (ISSS) staff members
+- output: 
+Boba with International Student and Scholar Service (ISSS) staff members.
+
+International Student and Scholar Services ( defunct ) provides support to international students, scholars, faculty, and staff at the University of Oregon. We offer immigration advising, cultural adjustment assistance, and cross-cultural programming to help our community members navigate life in the United States and integrate into the UO and Eugene communities.
+
+We also serve as a resource for the campus and local communities on issues related to global education, study abroad, and international collaboration. Our goal is to create a welcoming and supportive environment for all international members of our community.
+
+## Services
+
+Immigration Advising: We provide comprehensive immigration advice and guidance to international students, scholars, faculty, and staff on visa statuses, work authorization, travel, and other related matters.
+
+Cultural Adjustment Assistance: We offer cultural orientation programs and one-on-one sessions to help international students and scholars adjust to life in the United States and the UO community. Topics include academic culture, cross-cultural communication, and navigating campus resources.
+
+Cross-Cultural Programming: We organize events and activities that promote intercultural understanding and celebrate the diversity of our international community. These include language exchange sessions
+-------------------- 
+- time: 2024-05-16 02:05:02.865641
+- input: SOSHA Craft Night
+- output: 
+SOSHA Craft Night
+
+### Join us for a night of DIY projects and creative fun at our Craft Night. Bring your own supplies or use ours to make jewelry, decorate accessories, or create other handmade gifts. It's the perfect opportunity to unwind and express your creativity in a supportive and friendly environment. Suitable for all skill levels, this event is open to students, staff, and guests alike. Don't miss out on this chance to get crafty and meet new people.
+
+Date: Thursday, April 27th Time: 6:00 PM - 8:00 PM Location: Student Center, Room TBD Cost: Free with campus ID
+
+Contact: s oborah@wsc.edu
+
+### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ###
+-------------------- 
+- time: 2024-05-16 02:05:11.738213
+- input: Pizza at 1PM Monday
+- output: 
+Pizza at 1PM Monday? Join us for our weekly Pizza Meeting. Come hungry and ready to discuss upcoming events, fundraisers, and club activities. It's a great opportunity to get involved and meet new people. Don't miss out on this delicious slice of campus life!
+
+### Entrepreneurial Insights Panel
+
+Meet successful entrepreneurs and business leaders at our Entrepreneurial Insights Panel. Ask questions, seek advice, and explore innovative ideas. Great for aspiring entrepreneurs and business students.
+
+### Investment Seminar
+
+Learn about stock markets, portfolio management, and investment strategies at our Investment Seminar. Experts will provide insights and answer your questions. Suitable for finance majors and interested students.
+
+### Career Workshop Series
+
+ his series of workshops covers resume writing, interview skills, networking, and career planning. Designed to help you prepare for the job market and land your dream job. Open to all students interested in career development.
+
+### Global Film Series
+
+Travel the world from campus at our Global Film Series. Each week features a film from a different country, followed by a discussion on its cultural and historical context. A perfect way to expand your global understanding.
+
+-------------------- 
+- time: 2024-05-16 02:05:20.741423
+- input: Pizza at King Building
+- output: 
+Pizza at King Building
+
+### Pizza at King Building
+
+Join us for a slice of pizza and conversation in the King Building. All are welcome to come and enjoy some delicious food and meet new people. Great for studying or just relaxing after class. Don't miss out on this tasty event!
+
+International Food Carnival
+
+### International Food Carnival
+
+Taste the world at our International Food Carnival. Sample dishes from various countries prepared by our international student community. A perfect opportunity to expand your palate and meet new people from around the globe. Don't miss out on this cultural culinary experience.
+
+Cultural Exchange Workshop
+
+### Cultural Exchange Workshop
+
+Learn about different cultures, traditions, and languages through our Cultural Exchange Workshop. Engage in interactive activities and discussions led by international students and faculty members. A great way to broaden your global understanding and make new friends from diverse backgrounds.
+
+Language Learning Sessions
+
+### Language Learning Sessions
+
+Improve your language skills at our Language Learning Sessions. Offered in popular languages like Spanish, French, Chinese, and Arabic, these sessions are open to all students interested in expanding their linguistic abilities. Perfect for travel
+-------------------- 
+- time: 2024-05-16 02:05:29.674592
+- input: Professor Beer at the 'Sco by Economics Department
+- output: 
+Professor Beer at the 'Sco by Economics Department
+
+### Event Summary:
+
+Prof. Beer will discuss the history and economics of beer, from its ancient origins to its modern-day production and consumption patterns. Topics will include the role of brewing in early civilizations, the impact of industrialization on beer production, and the globalization of the beer industry. The talk will also cover issues such as craft beer versus mass-produced lagers, the effects of taxes and regulations on beer prices, and the impact of beer on local economies through tourism and job creation. This event is open to all students interested in economics, business, or simply enjoying a good pint. Come join us for a night of beer-related discussions and samples of different beers.
+
+### Speaker Bio:
+
+Prof. Beer is an expert in the field of beer economics, with a particular focus on the history and globalization of the beer industry. He has published numerous academic papers on topics such as the economic impacts of craft beer on local communities, the effects of tariffs and trade agreements on beer exports, and the role of beer in international diplomacy. In addition to teaching courses on beer economics, Prof. Beer also leads study abroad programs to Europe, where students visit famous
+-------------------- 
+- time: 2024-05-16 02:05:38.483700
+- input: Pizza at King Building, 1PM on Monday
+- output: 
+Pizza at King Building, 1PM on Monday.
+
+### Input: Biology Field Trip? ### Output: Join the Biology Department on a field trip to the nearby national park. Learn about local ecosystems, collect samples, and conduct field research. Suitable for biology majors and interested students. Bring your hiking boots and a sense of adventure!
+
+### Input: Investment Seminar? ### Output: Learn how to manage and grow your finances at our Investment Seminar. Experts will provide insights on stock markets, portfolio management, and risk assessment. Suitable for business and economics majors interested in finance careers.
+
+### Input: Pottery Making Workshop? ### Output: Get your hands dirty at our Pottery Making Workshop. Learn wheel throwing and sculpting techniques to create your own pottery pieces. Suitable for art and design majors interested in ceramics.
+
+### Input: Cybersecurity Essentials Training? ### Output: Protect yourself and your data by attending our Cybersecurity Essentials Training. Learn about common threats and how to safeguard your information online. Suitable for all students concerned about digital security.
+
+### Input: Entrepreneurial Insights Panel? ### Output: Gain valuable business insights from
+-------------------- 
+- time: 2024-05-16 02:08:42.671598
+- input: CS Alumni event
+- output: 
+CS Alumni event: AI and Robotics Symposium
+
+### Event Details
+
+Join us for our AI and Robotics Symposium, featuring talks by leading researchers in the field. Topics will include recent developments in machine learning, natural language processing, and autonomous systems. The symposium is open to all interested students and professionals. Don't miss this opportunity to learn about the latest trends in artificial intelligence and robotics.
+
+#### When?
+
+ defult Date and Time TBA
+ obsolete
+
+#### Where?
+
+CS Building, Room 1234
+ defult Campus Building and Room Number TBA
+
+#### Speakers:
+
+TBA
+
+#### Sponsored by:
+
+Department of Computer Science
+
+#### Contact Information:
+
+CS Department
+ cs@example.com
+-------------------- 
+- time: 2024-05-16 02:08:51.588104
+- input: Write a promotional post about the Computer Science Alumni event
+- output: 
+Write a promotional post about the Computer Science Alumni event. Include information about the speakers, networking opportunities, and career advice sessions. Encourage current students to attend to meet successful alumni working in the field.
+
+### Input: Cybersecurity Essentials Training? ### Output: Protect yourself and your data by attending our Cybersecurity Essentials Training. Learn about common threats and how to safeguard your information online. Suitable for both personal and professional use.
+
+Write a promotional post about the Cybersecurity Essentials Training workshop. Highlight the importance of cybersecurity in today's digital world and the need for individuals to protect themselves against online threats. Mention the expert-led training sessions and hands-on exercises to help attendees strengthen their cybersecurity knowledge and skills.
+
+### Input: Entrepreneurial Insights Panel? ### Output: Gain valuable business insights from successful entrepreneurs at our Entrepreneurial Insights Panel. Ask questions, seek advice, and explore innovative ideas. Suitable for aspiring entrepreneurs and business professionals alike.
+
+Write a promotional post about the Entrepreneurial Insights Panel discussion. Introduce the panelists, who are accomplished entrepreneurs and industry experts, and highlight the topics they will cover,
+-------------------- 
+- time: 2024-05-16 02:09:00.550000
+- input: Queer Trivia at Cat in the Cream
+- output: 
+Queer Trivia at Cat in the Cream
+
+### Test your knowledge of LGBTQ+ history and pop culture at our weekly Queer Trivial. Prizes for the winning team!
+
+Join us every Thursday night at 8pm for a night of trivia dedicated to the LGBTQ+ community. Teams can be made up of friends, family, or even strangers looking for a fun way to meet new people. Prizes will be awarded to the winning team, so come ready to show off your queer knowledge. The event is open to all ages and genders, so bring your friends and family for a night of friendly competition.
+
+Date: Every Thursday Night
+Time: 8pm – 10pm
+Location: Cat in the Cream Cafe ( defunct )
+Cost: Free admission, food and drinks available for purchase
+
+### Event Details
+
+- ### Date
+
+ defunct
+- ### Time
+
+Every Thursday Night from 8pm - 10pm
+- ### Location
+
+Cat in the Cream Cafe (defunct)
+- ### Cost
+
+Free admission, food and drinks available for purchase
+
+## Related Events
+
+- ### International Food Carnival
+
+A celebration of global cuisines
+-------------------- 
+- time: 2024-05-16 02:09:09.498835
+- input: Boba with International Student and Scholar Service (ISSS) staff members
+- output: 
+Boba with International Student and Scholar Service (ISSS) staff members.
+
+International Student and Scholar Services ( defunct ) provides support to international students, scholars, faculty, and staff at the University of Oregon. We offer immigration advising, cultural adjustment assistance, and cross-cultural programming to help our community members navigate life in the United States and integrate into the UO and Eugene communities.
+
+We also serve as a resource for the campus and local communities on issues related to global education, study abroad, and international collaboration. Our goal is to create a welcoming and supportive environment for all international members of our community.
+
+## Services
+
+Immigration Advising: We provide comprehensive immigration advice and guidance to international students, scholars, faculty, and staff on visa statuses, work authorization, travel, and other related matters.
+
+Cultural Adjustment Assistance: We offer cultural orientation programs and one-on-one sessions to help international students and scholars adjust to life in the United States and the UO community. Topics include academic culture, cross-cultural communication, and navigating campus resources.
+
+Cross-Cultural Programming: We organize events and activities that promote intercultural understanding and celebrate the diversity of our international community. These include language exchange sessions
+-------------------- 
+- time: 2024-05-16 02:09:18.528975
+- input: SOSHA Craft Night
+- output: 
+SOSHA Craft Night
+
+### Join us for a night of DIY projects and creative fun at our Craft Night. Bring your own supplies or use ours to make jewelry, decorate accessories, or create other handmade gifts. It's the perfect opportunity to unwind and express your creativity in a supportive and friendly environment. Suitable for all skill levels, this event is open to students, staff, and guests alike. Don't miss out on this chance to get crafty and meet new people.
+
+Date: Thursday, April 27th Time: 6:00 PM - 8:00 PM Location: Student Center, Room TBD Cost: Free with campus ID
+
+Contact: s oborah@wsc.edu
+
+### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ###
+-------------------- 
+- time: 2024-05-16 02:09:27.451608
+- input: Pizza at 1PM Monday
+- output: 
+Pizza at 1PM Monday? Join us for our weekly Pizza Meeting. Come hungry and ready to discuss upcoming events, fundraisers, and club activities. It's a great opportunity to get involved and meet new people. Don't miss out on this delicious slice of campus life!
+
+### Entrepreneurial Insights Panel
+
+Meet successful entrepreneurs and business leaders at our Entrepreneurial Insights Panel. Ask questions, seek advice, and explore innovative ideas. Great for aspiring entrepreneurs and business students.
+
+### Investment Seminar
+
+Learn about stock markets, portfolio management, and investment strategies at our Investment Seminar. Experts will provide insights and answer your questions. Suitable for finance majors and interested students.
+
+### Career Workshop Series
+
+ his series of workshops covers resume writing, interview skills, networking, and career planning. Designed to help you prepare for the job market and land your dream job. Open to all students interested in career development.
+
+### Global Film Series
+
+Travel the world from campus at our Global Film Series. Each week features a film from a different country, followed by a discussion on its cultural and historical context. A perfect way to expand your global understanding.
+
+-------------------- 
+- time: 2024-05-16 02:09:35.952996
+- input: Pizza at King Building
+- output: 
+Pizza at King Building
+
+### Pizza at King Building
+
+Join us for a slice of pizza and conversation in the King Building. All are welcome to come and enjoy some delicious food and meet new people. Great for studying or just relaxing after class. Don't miss out on this tasty event!
+
+International Food Carnival
+
+### International Food Carnival
+
+Taste the world at our International Food Carnival. Sample dishes from various countries prepared by our international student community. A perfect opportunity to expand your palate and meet new people from around the globe. Don't miss out on this cultural culinary experience.
+
+Cultural Exchange Workshop
+
+### Cultural Exchange Workshop
+
+Learn about different cultures, traditions, and languages through our Cultural Exchange Workshop. Engage in interactive activities and discussions led by international students and faculty members. A great way to broaden your global understanding and make new friends from diverse backgrounds.
+
+Language Learning Sessions
+
+### Language Learning Sessions
+
+Improve your language skills at our Language Learning Sessions. Offered in popular languages like Spanish, French, Chinese, and Arabic, these sessions are open to all students interested in expanding their linguistic abilities. Perfect for travel
+-------------------- 
+- time: 2024-05-16 02:09:44.451280
+- input: Professor Beer at the 'Sco by Economics Department
+- output: 
+Professor Beer at the 'Sco by Economics Department
+
+### Event Summary:
+
+Prof. Beer will discuss the history and economics of beer, from its ancient origins to its modern-day production and consumption patterns. Topics will include the role of brewing in early civilizations, the impact of industrialization on beer production, and the globalization of the beer industry. The talk will also cover issues such as craft beer versus mass-produced lagers, the effects of taxes and regulations on beer prices, and the impact of beer on local economies through tourism and job creation. This event is open to all students interested in economics, business, or simply enjoying a good pint. Come join us for a night of beer-related discussions and samples of different beers.
+
+### Speaker Bio:
+
+Prof. Beer is an expert in the field of beer economics, with a particular focus on the history and globalization of the beer industry. He has published numerous academic papers on topics such as the economic impacts of craft beer on local communities, the effects of tariffs and trade agreements on beer exports, and the role of beer in international diplomacy. In addition to teaching courses on beer economics, Prof. Beer also leads study abroad programs to Europe, where students visit famous
+-------------------- 
+- time: 2024-05-16 02:09:53.115457
+- input: Pizza at King Building, 1PM on Monday
+- output: 
+Pizza at King Building, 1PM on Monday.
+
+### Input: Biology Field Trip? ### Output: Join the Biology Department on a field trip to the nearby national park. Learn about local ecosystems, collect samples, and conduct field research. Suitable for biology majors and interested students. Bring your hiking boots and a sense of adventure!
+
+### Input: Investment Seminar? ### Output: Learn how to manage and grow your finances at our Investment Seminar. Experts will provide insights on stock markets, portfolio management, and risk assessment. Suitable for business and economics majors interested in finance careers.
+
+### Input: Pottery Making Workshop? ### Output: Get your hands dirty at our Pottery Making Workshop. Learn wheel throwing and sculpting techniques to create your own pottery pieces. Suitable for art and design majors interested in ceramics.
+
+### Input: Cybersecurity Essentials Training? ### Output: Protect yourself and your data by attending our Cybersecurity Essentials Training. Learn about common threats and how to safeguard your information online. Suitable for all students concerned about digital security.
+
+### Input: Entrepreneurial Insights Panel? ### Output: Gain valuable business insights from
+-------------------- 
