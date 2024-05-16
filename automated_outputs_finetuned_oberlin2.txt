@@ -836,3 +836,225 @@ Grossman added that she hopes students will come to the show because it is a gre
 
 In addition to CupcakKe, there will also be performances by local hip hop group MRC
 -------------------- 
+- time: 2024-05-16 06:46:17.393382
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Write a promotional post about the Computer Science Alumni event
+- output: 
+Write a promotional post about the Computer Science Alumni event on April 20th. Include details such as location, time, and what attendees can expect. Highlight any special guests or speakers that will be present at the event. Encourage readers to RSVP and share their excitement for this exciting opportunity!
+
+The Computer Science Alumni Event is an annual gathering of alumni from the Department of Computer Science at our university. This year's event will take place on April 20th in the Computer Science Building. The event begins at 6:30 pm with a reception followed by a panel discussion featuring prominent alumni working in various fields related to computer science. Attendees can expect to hear firsthand accounts of successful careers in technology, learn about current trends in the industry, and network with fellow graduates. We hope you join us for this exciting opportunity to connect with other professionals who share your passion for computing!
+-------------------- 
+- time: 2024-05-16 06:46:21.757167
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Queer Trivia at Cat in the Cream
+- output: 
+Queer Trivia at Cat in the Cream
+
+Join us for a night of queer trivia! We will have prizes and snacks. Come out to meet new people, learn some cool facts about LGBTQ+ history, and win some awesome prizes! This event is open to all students, staff, faculty, and community members. No registration required.
+
+This event is sponsored by the Office of Multicultural Affairs (OMA) and the Center for Sexuality and Gender Diversity (CSGD). For more information please contact OMA@oberlin.edu or CSGD@oberlin.edu.
+-------------------- 
+- time: 2024-05-16 06:46:27.396872
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Boba with International Student and Scholar Service (ISSS) staff members
+- output: 
+Boba with International Student and Scholar Service (ISSS) staff members.
+
+Boba is a popular drink in Taiwan, where it originated from. It’s made of tapioca balls that are chewy and sweet. The tapioca balls are usually served in cold milk tea or fruit juice. There are many different flavors to choose from such as mango, strawberry, passionfruit, etc.
+
+The ISSS office hosted an event for students on Friday, April 26th at the MRC. Students were able to make their own boba drinks by choosing their favorite flavor and adding sugar and ice. They also had the opportunity to meet other international students and learn about each other’s cultures. This was a great way for students to connect with one another and have fun while learning about new things!
+-------------------- 
+- time: 2024-05-16 06:46:36.312782
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: SOSHA Craft Night
+- output: 
+SOSHA Craft Night
+
+SOSHA is hosting a craft night on Thursday, April 13th from 6-8pm in the MRC. Come make some cool stuff and hang out with other students! We will have supplies for making friendship bracelets, tie dye shirts, and more! This event is open to all students. If you are interested in attending please fill out this form: https://forms.gle/79J4Y5jq2ZQvGKXx6
+
+SOSHA’s Annual Sexual Assault Awareness Month (SAAM) Event
+
+Join us on Friday, April 21st at 7pm in the MRC for our annual SAAM event. This year we will be having a panel discussion about sexual assault and consent. The panelists include: Professor Katie Hyslop, Professor of Sociology; Professor Sarah Gronim, Associate Professor of Psychology; Professor Laura Bates, Assistant Professor of English; and Professor Amy Schalet, Professor of Sociology. There will also be a Q&A session after the panel discussion. This event is open to all students. If you are interested in attending please fill out this form: https://forms
+-------------------- 
+- time: 2024-05-16 06:46:41.132933
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Pizza at 1PM Monday
+- output: 
+Pizza at 1PM Monday, April 29th in the lounge!
+
+Come join us for a fun afternoon of pizza and games. We will be playing board games, card games, video games, etc. All are welcome to come hang out with us!
+
+We hope to see you there!
+
+Pizza is provided by the Student Activities Board (SAB) and the Office of Multicultural Affairs (OMA).
+
+This event was originally scheduled for March 4th but had to be rescheduled due to inclement weather.
+
+If you have any questions or concerns please contact the OMA at omalou@oberlin.edu.
+-------------------- 
+- time: 2024-05-16 06:46:46.153367
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Pizza at King Building, 1PM on Monday, Computer Science professor Noel Warford talk about AI
+- output: 
+Pizza at King Building, 1PM on Monday, Computer Science professor Noel Warford talk about AI and the future of computing.
+
+The event will be held in the King building (room 203) from 1-2pm. Lunch will be provided!
+
+Noel Warford is a Professor of Computer Science at Oberlin College. He received his Ph.D. in Computer Science from Carnegie Mellon University in 2004. His research interests include artificial intelligence, machine learning, computational creativity, and human-computer interaction. In particular, he has worked on developing systems that can generate creative artifacts such as stories, poems, and music. He also works on using machine learning to improve the user experience for interactive applications.
+-------------------- 
+- time: 2024-05-16 06:46:55.146407
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Promote Solarity this year, which features New Jeans as the main act
+- output: 
+Promote Solarity this year, which features New Jeans as the main act.
+
+The event will take place on April 21 at 8 p.m. in Wilder Main. Tickets are $5 for Oberlin students and $10 for non-Oberlin students. The doors open at 7:30 p.m., and the show starts at 8 p.m.
+
+New Jeans is a South Korean girl group formed by FNC Entertainment in 2022. They debuted with their first single album “Hype Boy” on Sept. 9, 2022. Theirgrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegr
+-------------------- 
+- time: 2024-05-16 06:46:59.350965
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Oberlin Outings Club Bonfire in Tappan Square at 8PM
+- output: 
+Oberlin Outings Club Bonfire in Tappan Square at 8PM.
+
+The Oberlin Outings Club is a student-run organization that organizes outdoor trips for the Oberlin community. We offer trips ranging from day hikes to backpacking, rock climbing, and canoeing. Our goal is to provide opportunities for students to explore the outdoors while fostering a sense of community within the club. All are welcome!
+
+We have trips every weekend during the school year as well as some weekday trips. If you would like more information about our club or upcoming trips please email us at ooc@oberlin.edu.
+-------------------- 
+- time: 2024-05-16 06:47:04.249047
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Blood Drive at Wilder Hall, 2PM, May 30th, 2024
+- output: 
+Blood Drive at Wilder Hall, 2PM, May 30th, 2024.
+
+The blood drive was a success! We had over 15 donors and collected enough blood to save up to 45 lives. Thank you to everyone who came out and supported this important cause.
+
+We are so grateful for the support of our community in helping us reach our goal of collecting enough blood to save up to 45 lives. The blood drive was a great success, with over 15 donors coming out to give their time and energy to help others. We hope that we can continue to work together to make a difference in the lives of those in need. Thank you again to everyone who participated and helped make this event possible.
+-------------------- 
+- time: 2024-05-16 06:47:09.160916
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: TGIF at Science Center next Friday
+- output: 
+TGIF at Science Center next Friday, April 26th! We will be having a special event with the theme of “Science and Art” to celebrate the opening of the new art gallery in the Science Center. Come join us for some fun science activities and enjoy the beautiful artwork on display!
+
+We are looking for volunteers to help out with this event! If you would like to volunteer, please fill out the form below: https://forms.gle/798Y4j513qZJKvXrA
+
+If you have any questions or concerns, feel free to email us at sci-center@mit.edu. Hope to see you there!
+-------------------- 
+- time: 2024-05-16 06:54:04.636829
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Write a promotional post about the Computer Science Alumni event
+- output: 
+Write a promotional post about the Computer Science Alumni event on April 20th. Include details such as location, time, and what attendees can expect. Highlight any special guests or speakers that will be present at the event. Encourage readers to RSVP and share their excitement for this exciting opportunity!
+
+The Computer Science Alumni Event is an annual gathering of alumni from the Department of Computer Science at our university. This year's event will take place on April 20th in the Computer Science Building. The event begins at 6:30 pm with a reception followed by a panel discussion featuring prominent alumni working in various fields related to computer science. Attendees can expect to hear firsthand accounts of successful careers in technology, learn about current trends in the industry, and network with fellow graduates. We hope you join us for this exciting opportunity to connect with other professionals who share your passion for computing!
+-------------------- 
+- time: 2024-05-16 06:54:08.961305
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Queer Trivia at Cat in the Cream
+- output: 
+Queer Trivia at Cat in the Cream
+
+Join us for a night of queer trivia! We will have prizes and snacks. Come out to meet new people, learn some cool facts about LGBTQ+ history, and win some awesome prizes! This event is open to all students, staff, faculty, and community members. No registration required.
+
+This event is sponsored by the Office of Multicultural Affairs (OMA) and the Center for Sexuality and Gender Diversity (CSGD). For more information please contact OMA@oberlin.edu or CSGD@oberlin.edu.
+-------------------- 
+- time: 2024-05-16 06:54:14.494815
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Boba with International Student and Scholar Service (ISSS) staff members
+- output: 
+Boba with International Student and Scholar Service (ISSS) staff members.
+
+Boba is a popular drink in Taiwan, where it originated from. It’s made of tapioca balls that are chewy and sweet. The tapioca balls are usually served in cold milk tea or fruit juice. There are many different flavors to choose from such as mango, strawberry, passionfruit, etc.
+
+The ISSS office hosted an event for students on Friday, April 26th at the MRC. Students were able to make their own boba drinks by choosing their favorite flavor and adding sugar and ice. They also had the opportunity to meet other international students and learn about each other’s cultures. This was a great way for students to connect with one another and have fun while learning about new things!
+-------------------- 
+- time: 2024-05-16 06:54:23.514752
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: SOSHA Craft Night
+- output: 
+SOSHA Craft Night
+
+SOSHA is hosting a craft night on Thursday, April 13th from 6-8pm in the MRC. Come make some cool stuff and hang out with other students! We will have supplies for making friendship bracelets, tie dye shirts, and more! This event is open to all students. If you are interested in attending please fill out this form: https://forms.gle/79J4Y5jq2ZQvGKXx6
+
+SOSHA’s Annual Sexual Assault Awareness Month (SAAM) Event
+
+Join us on Friday, April 21st at 7pm in the MRC for our annual SAAM event. This year we will be having a panel discussion about sexual assault and consent. The panelists include: Professor Katie Hyslop, Professor of Sociology; Professor Sarah Gronim, Associate Professor of Psychology; Professor Laura Bates, Assistant Professor of English; and Professor Amy Schalet, Professor of Sociology. There will also be a Q&A session after the panel discussion. This event is open to all students. If you are interested in attending please fill out this form: https://forms
+-------------------- 
+- time: 2024-05-16 06:54:28.281742
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Pizza at 1PM Monday
+- output: 
+Pizza at 1PM Monday, April 29th in the lounge!
+
+Come join us for a fun afternoon of pizza and games. We will be playing board games, card games, video games, etc. All are welcome to come hang out with us!
+
+We hope to see you there!
+
+Pizza is provided by the Student Activities Board (SAB) and the Office of Multicultural Affairs (OMA).
+
+This event was originally scheduled for March 4th but had to be rescheduled due to inclement weather.
+
+If you have any questions or concerns please contact the OMA at omalou@oberlin.edu.
+-------------------- 
+- time: 2024-05-16 06:54:33.033842
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Pizza at King Building, 1PM on Monday, Computer Science professor Noel Warford talk about AI
+- output: 
+Pizza at King Building, 1PM on Monday, Computer Science professor Noel Warford talk about AI and the future of computing.
+
+The event will be held in the King building (room 203) from 1-2pm. Lunch will be provided!
+
+Noel Warford is a Professor of Computer Science at Oberlin College. He received his Ph.D. in Computer Science from Carnegie Mellon University in 2004. His research interests include artificial intelligence, machine learning, computational creativity, and human-computer interaction. In particular, he has worked on developing systems that can generate creative artifacts such as stories, poems, and music. He also works on using machine learning to improve the user experience for interactive applications.
+-------------------- 
+- time: 2024-05-16 06:54:41.218230
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Promote Solarity this year, which features New Jeans as the main act
+- output: 
+Promote Solarity this year, which features New Jeans as the main act.
+
+The event will take place on April 21 at 8 p.m. in Wilder Main. Tickets are $5 for Oberlin students and $10 for non-Oberlin students. The doors open at 7:30 p.m., and the show starts at 8 p.m.
+
+New Jeans is a South Korean girl group formed by FNC Entertainment in 2022. They debuted with their first single album “Hype Boy” on Sept. 9, 2022. Theirgrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegrungegr
+-------------------- 
+- time: 2024-05-16 06:54:45.064012
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Oberlin Outings Club Bonfire in Tappan Square at 8PM
+- output: 
+Oberlin Outings Club Bonfire in Tappan Square at 8PM.
+
+The Oberlin Outings Club is a student-run organization that organizes outdoor trips for the Oberlin community. We offer trips ranging from day hikes to backpacking, rock climbing, and canoeing. Our goal is to provide opportunities for students to explore the outdoors while fostering a sense of community within the club. All are welcome!
+
+We have trips every weekend during the school year as well as some weekday trips. If you would like more information about our club or upcoming trips please email us at ooc@oberlin.edu.
+-------------------- 
+- time: 2024-05-16 06:54:49.724299
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Blood Drive at Wilder Hall, 2PM, May 30th, 2024
+- output: 
+Blood Drive at Wilder Hall, 2PM, May 30th, 2024.
+
+The blood drive was a success! We had over 15 donors and collected enough blood to save up to 45 lives. Thank you to everyone who came out and supported this important cause.
+
+We are so grateful for the support of our community in helping us reach our goal of collecting enough blood to save up to 45 lives. The blood drive was a great success, with over 15 donors coming out to give their time and energy to help others. We hope that we can continue to work together to make a difference in the lives of those in need. Thank you again to everyone who participated and helped make this event possible.
+-------------------- 
+- time: 2024-05-16 06:54:54.587197
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: TGIF at Science Center next Friday
+- output: 
+TGIF at Science Center next Friday, April 26th! We will be having a special event with the theme of “Science and Art” to celebrate the opening of the new art gallery in the Science Center. Come join us for some fun science activities and enjoy the beautiful artwork on display!
+
+We are looking for volunteers to help out with this event! If you would like to volunteer, please fill out the form below: https://forms.gle/798Y4j513qZJKvXrA
+
+If you have any questions or concerns, feel free to email us at sci-center@mit.edu. Hope to see you there!
+-------------------- 
+- time: 2024-05-16 06:54:59.291395
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Professor Beers at the Sco
+- output: 
+Professor Beers at the Sco
+
+Professor Beers is a professor of physics and astronomy, but he’s also an avid musician. He plays guitar in a band called The Sco, which performs regularly on campus. On Thursday, April 19th, they will be playing at The ‘Sco with special guests from Oberlin College. Come down to The ‘Sco for some great music!
+
+The Sco is located in Wilder Hall (the basement of Wilder) and is open every day from 4:30-6pm. It serves food and drinks and has live music most Thursdays during the school year.
+-------------------- 
