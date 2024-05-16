@@ -164,3 +164,133 @@ Pizza at King Building, 1PM on Monday.
 - Discuss the future of the group and how to best support each other in our career development journeys!
 - Connect with fellow career enthusiasts and gain insights into career growth with a touch of career development group empowerment! 🌟👩‍💼 Career Development Group meeting tickets for career enthusiasts. Perfect for those on a path to career success and gaining inspiration from career development group support! 🌟📚🌟️��������������������������������������������������������������������������������������������������������������������������������������������������
 -------------------- 
+- time: 2024-05-16 07:28:39.894377
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Write a promotional post about the Computer Science Alumni event
+- output: 
+Write a promotional post about the Computer Science Alumni event.
+
+Computer Science Alumni Event tickets for computer science enthusiasts. Perfect for those who love computing and connecting with like-minded alumni with a touch of computer science alumni event promo! 💻🌟👩‍🎓
+
+## Generative AI: The Future of Computing with a Touch of Computer Science Alumni Event Innovation! 🔍🌟🧠👩‍💻🌟🚀
+
+### Join the Computer Science Alumni Community and Embrace the Power of Generative AI! 🌟🧠🤖🌟🚀👩INVITATION👩🌟🧠🤖🌟🚀
+
+🌟🧠🤖🌟🚀👩🌟🏫🌟👩‍💻🌟🚀👩🌟🔍🌟🧠🤖
+-------------------- 
+- time: 2024-05-16 07:28:48.784359
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Queer Trivia at Cat in the Cream
+- output: 
+Queer Trivia at Cat in the Cream!
+🌈🌟 Quiz Night! 🌟🏳️‍🌈
+
+🌟📚 Test your knowledge with queer trivia! 📚🌟
+🌈🍵 Cozy up with a cup of coffee and celebrate LGBTQ+ history and culture with a touch of queer trivia fun! 🌟🧑‍🌈🍵🌈🌟
+
+🌟🌈🌟 Quiz Night tickets for trivia lovers. Perfect for those who love a good quiz and celebrating the LGBTQ+ community with a touch of queer trivia fun! 🌟🌈🌟📚🌈🌟🏳️‍🌈
+
+🌟🌈🌟 Quiz Night tickets for trivia enthusiasts. Ideal for those who love a challenge, testing their knowledge with queer trivia, and embracing the LGBT
+-------------------- 
+- time: 2024-05-16 07:28:57.754696
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Boba with International Student and Scholar Service (ISSS) staff members
+- output: 
+Boba with International Student and Scholar Service (ISSS) staff members.
+
+Boba is a popular drink among international students at the University of Oregon, and it’s not hard to see why! This delicious beverage combines chewy tapioca pearls with sweet syrup and milk or tea for a refreshing and satisfying treat. For many international students, boba is more than just a drink; it’s a cultural experience that connects them to their home country and helps them feel at home in the United States.
+
+One student from China shared, “Boba reminds me of my hometown in China where there are so many boba shops. It brings back happy memories and makes me feel connected to my culture even though I am far away.” Another student from Japan added, “Boba is such a comfort food for me. When I feel homesick, I love going to a boba shop and ordering my favorite flavor with extra tapioca pearls!”
+
+International students often gather at local boba shops to socialize and make new friends. These shops provide a welcoming space for international students to connect with each other over a cup of boba while enjoying the familiar flavors of home.
+
+For international students, boba is much more than just a drink – it
+-------------------- 
+- time: 2024-05-16 07:29:06.775003
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: SOSHA Craft Night
+- output: 
+SOSHA Craft Night
+
+Stextile and craft night for adults. Come along to our craft nights, meet new people and get creative with a range of textile and craft activities. Perfect for those who love getting their hands busy with creativity! 🌟🧵🎨🌟 Tickets: £10 per person.
+
+Perfect for creatives and those who love getting crafty with a touch of textile and craft night fun! 🌟🧶🎨🌟🌟📚🌈🌟 Textile and craft night tickets for adults. Suitable for crafters and those who enjoy getting creative with a touch of textile and craft night inspiration! 🌟🧵🎨🌟🌟👩‍�������������������������������������������������������������������
+-------------------- 
+- time: 2024-05-16 07:29:15.884275
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Pizza at 1PM Monday
+- output: 
+Pizza at 1PM Monday, then off to the airport for a flight to Tampa.
+
+Iysted in the back of an Uber on my way to the airport, Iysted with a group of friends who were also heading to Tampa for the weekend. We allysted pizza andysted our way through the city defsc def def defefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefef
+-------------------- 
+- time: 2024-05-16 07:29:24.894336
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Pizza at King Building, 1PM on Monday, Computer Science professor Noel Warford talk about AI
+- output: 
+Pizza at King Building, 1PM on Monday, Computer Science professor Noel Warford talk about AI and the future of computing.
+
+## About this event
+
+🍕🤖🌟 AI and the Future of Computing! 🌟🧠💻
+
+📅🌟🔍 Join us for a fascinating discussion on AI and the future of computing with Professor Noel Warford! 🌟🧠👩‍💻🚀
+
+🌟🎙️🌐 AI Ethics: Navigating the Future with Prof. Noel Warford! 🌟🎙️🌟🌐
+
+🌟🧠🌟🏢🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
+-------------------- 
+- time: 2024-05-16 07:29:33.966889
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Promote Solarity this year, which features New Jeans as the main act
+- output: 
+Promote Solarity this year, which features New Jeans as the main act! 🌟🎶 Tickets for their concert are now available. Perfect for fans of K-pop and experiencing electrifying performances with a touch of Solarity promotion! �����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������
+-------------------- 
+- time: 2024-05-16 07:29:43.069720
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Oberlin Outings Club Bonfire in Tappan Square at 8PM
+- output: 
+Oberlin Outings Club Bonfire in Tappan Square at 8PM.
+ work with the outiss club to set up a bonfire and enjoy s defscoing around t def def defdefs defefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefe
+
+## Date
+
+November 16, 2019
+iss club to set up a bonfire and enjoy s def defefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefef
+-------------------- 
+- time: 2024-05-16 07:29:52.092594
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Blood Drive at Wilder Hall, 2PM, May 30th, 2024
+- output: 
+Blood Drive at Wilder Hall, 2PM, May 30th, 2024
+
+The blood drive was a huge success! With the help of generous donors and the hard work of volunteers, we were able to collect a record-breaking amount of blood. The blood drive took place at Wilder Hall and was open to the public from 2pm to 6pm. Donors were greeted with warm smiles and given the opportunity to save lives with their selfless act of donating blood.
+
+The blood drive was organized by a local nonprofit organization that works to promote blood donation and raise awareness about the importance of giving back to the community. The organization's mission is to ensure that there is always enough blood available for those in need, whether it be for emergency transfusions or routine medical procedures.
+
+Throughout the day, donors lined up to give blood and make a difference in someone's life. VolunteersINFUSED WITH PASSION AND DEDICATION provided support and guidance to donors, ensuring that the process went smoothly and that everyone felt comfortable and safe.
+
+At the end of the day, the organizersINSPIRED BY COMPASSION AND SELissued certificates of appreciation to all donors as a token of gratitude for their generosity. They also
+-------------------- 
+- time: 2024-05-16 07:30:01.141749
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: TGIF at Science Center next Friday
+- output: 
+TGIF at Science Center next Friday!
+
+🌟🧪🌟 Science Center Night for science enthusiasts! 🌟🧪🌟
+
+🔬🌟🚀🌟🧪🌟🦠🌟 Science Center Night tickets for science lovers. Perfect for those who love exploring the mysteries of the universe and unlocking scientific wonders with a touch of science center night discovery! 🌟🧪🌟🕰️🌌🧑‍🔬🌟🧪🌟
+
+🌟🧪🌟 Science Center Night tickets for curious minds. Ideal for science enthusiasts and discovering the secrets of the universe with a touch of science center night adventure! 🌟🧪🌟🧪🌟🌌🧑‍🔬🌟🧪🌟
+
+🌟🧪🌟 Science Center Night tickets for young
+-------------------- 
+- time: 2024-05-16 07:30:10.156199
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Professor Beers at the Sco
+- output: 
+Professor Beers at the Scores
+
+The first time Iyst set foot in a Scottish castle was when weyst could barely walk.  My parentsyst took me to Edinburgh for my first birthday, and weyst could not stop staring at theade of Edinburgh Castlesco.  Itsc defsc couldscscscscot beefsc!  Thesctextystystystystystystystystystystystystystystystystystystystystystystystystyystysty scscotefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefef
+-------------------- 
