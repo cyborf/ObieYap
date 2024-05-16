@@ -123,3 +123,136 @@ The next meeting of the UW-Madison chapter of the American Society for Biochemis
 Abstract:
 Proteins are essential components of all living organisms. They carry out a wide range of functions including catalysis, transport, signaling, structural support, and regulation. In order to perform these diverse roles, proteins must fold into their native structures with high fidelity. This process is often referred to as protein folding. However, this term can be misleading because it implies that there is only one structure that a given polypeptide chain can adopt. In fact, many proteins have multiple stable conformations, some of which may be biologically relevant while others may not. Furthermore, proteins do not always fold correctly. For example, mutations or other perturbations can
 -------------------- 
+- time: 2024-05-16 07:05:09.176930
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Write a promotional post about the Computer Science Alumni event
+- output: 
+Write a promotional post about the Computer Science Alumni event on 10/26.
+
+The Computer Science Department is hosting an alumni event on October 26th, from 5:30-7:30pm in the CSE building. The event will feature a panel of alumni who are working at local companies and startups. They will discuss their career paths since graduating from UW, as well as what they do now. There will also be time for networking with other alumni and current students. This is a great opportunity to learn more about careers in computer science and meet people who have been successful in this field.
+-------------------- 
+- time: 2024-05-16 07:05:13.200211
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Queer Trivia at Cat in the Cream
+- output: 
+Queer Trivia at Cat in the Cream
+
+The Cat in the Cream is a queer-friendly bar and restaurant located on 1307 N. High St., Columbus, OH 43201. The bar has been around since 1985 and was named after the cat that used to live there. It’s a great place for drinks, food, and fun!
+
+Queer trivia night is every Wednesday from 6:30pm – 8:30pm. There are prizes for first, second, and third place teams. You can also win prizes by answering bonus questions throughout the game.
+
+If you want to play, just show up with your team of four or less people (or join one when you get there). If you don’t have a team, they will help you find one.
+
+There is no cover charge but tips are appreciated.
+-------------------- 
+- time: 2024-05-16 07:05:18.602290
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Boba with International Student and Scholar Service (ISSS) staff members
+- output: 
+Boba with International Student and Scholar Service (ISSS) staff members
+
+Boba is a popular Taiwanese drink that has become increasingly popular in the United States. It’s made of tapioca balls, milk tea, and sugar. The tapioca balls are chewy and have a unique texture. They can be eaten by themselves or added to other drinks like coffee or smoothies.
+
+The first time I tried boba was when my friend brought me some from her hometown in China. She said it was very common there but not so much here in America. When she told me about how delicious they were, I couldn’t wait to try them myself! So we went out together one night after class and got ourselves some bubble tea at our favorite spot near campus. We both loved it right away – especially since ours came with extra-large straws so we could suck up all those little pearls without having any trouble getting them down our throats 🙂
+
+## What Is Boba?
+
+Boba is a type of tea that originated in Taiwan. It consists of small balls made from tapioca starch, which are then cooked until they become soft and chewy. These balls are usually served with milk or fruit juice as well as ice cream on top.
+
+There
+-------------------- 
+- time: 2024-05-16 07:05:22.555869
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: SOSHA Craft Night
+- output: 
+SOSHA Craft Night
+
+SOSHA is hosting a craft night on Thursday, March 28th from 6:30-9pm at the SOSHA office. We will be making cards for our residents and their families to celebrate Easter! This event is open to all volunteers and staff members. Please RSVP by emailing sosha@soshashelter.org or calling (517) 485-8486.
+
+Volunteer Training
+
+We are holding volunteer training sessions on Tuesday, April 2nd and Wednesday, April 3rd from 6:30-8:30pm at the SOSHA office. If you would like to attend one of these trainings please contact us at sosha@soshashelter.org or call (517) 485-8486.
+-------------------- 
+- time: 2024-05-16 07:05:27.944365
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Pizza at 1PM Monday
+- output: 
+Pizza at 1PM Monday?
+
+I’m not sure if I should be proud of myself or ashamed. It was a good pizza, but it wasn’t the best pizza in town. And I had to walk past two other places that serve better pizza on my way home from work. But I didn’t care. I wanted pizza and I got it.
+
+It was a nice day out so I decided to eat outside. The place is called “Pizzeria Uno” and they have a patio with tables and chairs. There were only three people there when I arrived. One guy eating alone, one couple sitting together, and me.
+
+The menu has all kinds of pizzas listed by number. They also offer salads, sandwiches, and desserts. I ordered #20 which is a pepperoni pizza with mushrooms and green peppers. It came with a side salad.
+
+When I asked for extra cheese, she said no problem. She then added some more sauce to the top of the pie before putting it into the oven. After about ten minutes, she brought it back out and cut it up into eight slices. Then she put it onto a plate and handed it over to me.
+
+
+-------------------- 
+- time: 2024-05-16 07:05:33.311916
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Pizza at King Building, 1PM on Monday, Computer Science professor Noel Warford talk about AI
+- output: 
+Pizza at King Building, 1PM on Monday, Computer Science professor Noel Warford talk about AI and the future of computing.
+
+The first thing I noticed when I walked into the room was that there were a lot more people than usual for a Monday lunchtime pizza meeting. The second thing I noticed was that they had brought in some extra chairs to accommodate all these people. And then I realized that this wasn’t just any old pizza meeting; it was a special one with a guest speaker.
+
+Noel Warford is an Associate Professor of Computer Science at UC Berkeley who studies artificial intelligence (AI). He gave us a brief overview of what AI is and how it works before diving into his research on using machine learning algorithms to predict human behavior. His work has applications in everything from marketing to healthcare, but he also talked about some of the ethical implications of using AI technology. For example, if you could use AI to predict whether someone will commit a crime or not, should we be doing that? It’s a tough question without an easy answer.
+
+Overall, it was an interesting talk that got me thinking about the potential uses and abuses of AI technology. If you’re interested in learning more about AI, check out Noel Warford’s website or follow him on Twitter @noelwarford.
+-------------------- 
+- time: 2024-05-16 07:05:38.712174
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Promote Solarity this year, which features New Jeans as the main act
+- output: 
+Promote Solarity this year, which features New Jeans as the main act.
+
+The 2023 edition of the annual music festival will take place on May 19 and 20 at the NOS Event Center in San Bernardino, California. The lineup also includes BTS’s Jimin, who is set to make his solo debut with a performance at the event.
+
+New Jeans are one of the most popular K-pop girl groups right now, having made their debut last August with “Hype Boy.” They have since released two more singles: “Attention” and “OMG,” both of which were well received by fans and critics alike.
+
+Jimin is one of the seven members of BTS, one of the biggest boy bands in the world. He has been part of the group since its debut in 2013 and has released several successful albums with them.
+
+This year’s Solarity Festival will be headlined by New Jeans and Jimin, but there are many other acts that will perform over the course of the weekend. Some of these include ATEEZ, CRAVITY, ENHYPEN, GOT7, ITZY, IVE, Kep1er, LE SSERAFIM,
+-------------------- 
+- time: 2024-05-16 07:05:41.172926
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Oberlin Outings Club Bonfire in Tappan Square at 8PM
+- output: 
+Oberlin Outings Club Bonfire in Tappan Square at 8PM
+
+The Oberlin Outing Club is a student-run organization that organizes outdoor trips for the Oberlin community. We offer a wide variety of activities, including hiking, backpacking, rock climbing, canoeing, kayaking, and more! Our goal is to provide opportunities for students to explore the outdoors while also building a strong sense of community within our club. We welcome all levels of experience and encourage everyone to come join us on one of our many adventures!
+
+## Event Contact
+
+Oberlin Outing Club
+-------------------- 
+- time: 2024-05-16 07:05:44.712438
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: Blood Drive at Wilder Hall, 2PM, May 30th, 2024
+- output: 
+Blood Drive at Wilder Hall, 2PM, May 30th, 2024
+
+The blood drive was a success! We collected 15 units of blood. Thank you to all who donated and helped out with the event.
+
+Blood Drive at Wilder Hall, 2PM, May 30th, 2024
+
+We are looking for volunteers to help us run our next blood drive on May 30th from 2-6pm in Wilder Hall. If you would like to volunteer please contact us at [email protected] or call (802) 793-2331.
+
+Thank You!
+
+A big thank you to everyone that came out to support our blood drive last week. We were able to collect 15 units of blood which will go towards helping those in need.
+-------------------- 
+- time: 2024-05-16 07:05:50.109240
+- formating: ### Input: {example['input']} ### Output: {example['output']}
+- input: TGIF at Science Center next Friday
+- output: 
+TGIF at Science Center next Friday, May 18th!
+
+We’re excited to announce that we will be hosting a special edition of our monthly TGIF event on Friday, May 18th from 5:30-7:30pm. This month’s theme is “Science and the Arts” and will feature live music by local band The Dirty Sock Funtime Band, as well as an interactive art installation by artist Katie Stout. We’ll also have food trucks, beer, wine, and more!
+
+The Dirty Sock Funtime Band is a Philadelphia based children’s rock band with a twist – they play for kids AND adults. Their songs are fun, catchy, and full of energy. They’ve been featured in the New York Times, NPR, and even performed at the White House. Check out their website here.
+
+Katie Stout is a Brooklyn-based artist who creates sculptures and installations using everyday objects like plastic bags, paper towels, and toilet paper. Her work has been exhibited all over the world including the Museum of Modern Art (MoMA) in NYC. Learn more about her work here.
+
+This event is free and open to
