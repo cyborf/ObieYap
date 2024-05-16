@@ -372,3 +372,165 @@ Pizza at King Building, 1PM on Monday.
 
 ### Input: Entrepreneurial Insights Panel? ### Output: Gain valuable business insights from
 -------------------- 
+- time: 2024-05-16 03:27:42.396037
+- formating: ### The following is a sample event: {example['input']}
+- input: CS Alumni event
+- output: 
+CS Alumni event at the 2019 Splitchers event.
+announcement for alumni event at splitchers 2019
+
+The Computer Science Department is hosting an alumni event during Splitchers on Friday, September 6th from 5:30-7:30pm in the Tappan Square Room of the Cat in the Cream. This will be off campus and off the hook! Come hang out with fellow alums and defrost could could after a long summer. We hope to see you there!
+
+announcement for alumni event at splitchers 2019
+
+announcement for alumni event at splitchers 2019
+
+announcement for alumni event at splitchers 2019
+
+announcement for alumni event at splitchers 2019
+
+announcement for alumni event at splitchers 2019
+
+announcement for alumni event at splitchers 2019
+
+announcement for alumni event at splitchers 2019
+
+announcement for
+-------------------- 
+- time: 2024-05-16 03:27:50.921031
+- formating: ### The following is a sample event: {example['input']}
+- input: Write a promotional post about the Computer Science Alumni event
+- output: 
+Write a promotional post about the Computer Science Alumni event at The Sco on Thursday, April 27th. Highlight the importance of networking and offline connections in today'sointment market. Encourage students to attend the event and connect with alumni from various companies.
+announcement for computer science alumni event at the sco on april 27th. highlight offline connections as an importantainst tool inointment market. encourage students to attend and network with alumni from various companies. #CSAlumniEvent # defytheodds #offlineconnections #announcement #scoevent #networking #careerdevelopment #computerscience #alumnievent #intheknow #csmajors # defytheodds #offlineconnections #scoevent #networking #careerdevelopment #announcement #csalumnievent #intheknow #csmajors #offlineconnections #scoevent #networking #careerdevelopment #announcement #csalumnievent #intheknow #announcement #csalumnievent #intheknow #csmajors #offlineconnections #scoevent #networking
+-------------------- 
+- time: 2024-05-16 03:27:59.469731
+- formating: ### The following is a sample event: {example['input']}
+- input: Queer Trivia at Cat in the Cream
+- output: 
+Queer Trivia at Cat in the Cream
+announcement for event on Thursday, October 20th.
+
+Join us for a night of fun and learning! We will oblige you with tasty treats and prizes as we test your knowledge about queerness in pop culture. The event is open to all students, staff, faculty, and community members. Come alone or bring friends!
+
+The event will be held at Cat in the Cream from 7:30-9:30 PM on Thursday, October 20th.
+
+We hope to see you there!
+
+This event is sponsored by Oberlin College LGBTQ+ Resource Center and Oberlin College Office of Multicultural officiating.
+
+Event Date:
+Thursday, Octoberannouncement for event on Thursday, October 20th. 20announcement for event on Thursday, October 20th., 2022 - 7:30pmannouncement for event on Thursday, Octoberannouncement for event on Thursday, October 20th. 2022 - 9:30pman announcement for event on Thursday, Octoberannouncement for event on Thursday, October 20th. 
+-------------------- 
+- time: 2024-05-16 03:28:07.862327
+- formating: ### The following is a sample event: {example['input']}
+- input: Boba with International Student and Scholar Service (ISSS) staff members
+- output: 
+Boba with International Student and Scholar Service (ISSS) staff members.
+ could be a great way to meet new people, learn about different cultures, and try something new! Here are some tips for getting started:
+- Research the types of boba available at local shops. There are many flavors and styles to choose from, so take some time to explore what's out there before settling on oneisss.
+- Consider your preferences when it comes to sweetness level, texture, and temperature. Some people prefer their boba cold and others likeatermperature.
+- Don’t be afraid to ask questions if you’re unsure aboutwo ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob ab ob
+-------------------- 
+- time: 2024-05-16 03:28:16.291012
+- formating: ### The following is a sample event: {example['input']}
+- input: SOSHA Craft Night
+- output: 
+SOSHA Craft Night at the Cat in the Cream
+announcement by sosha.org
+
+SOSHA is hosting a craft night event at The Cat in the Cream on Thursday, October 20th from 7-9 PM! Come hang out with us and make some fun could-be Halloween decorations for your room or dorm space. We will beissuingissuingissuingissuingissuingissuingissuingissuingissuingissuingissuingissuingissuingissuingissuingissuingissuingissuingissuingissuingissuingissuingissuingissuingissuingissuingissuingissuingissuingissuingissuingissuingissuingissuingissuingissuingissuingissuingissuingissuingissuingissuingissuingissuingissuingissuingissuingissuingissuingissuingissuingissuingissuingissuingissuingissuingissuingissuing issuing issuing issuing issuing issuing issuing issuing issuing issuing issuing issuing issuing issuing issuing issuing issuing issuing issuing issuing issuing issuing issuing issuing issuing issuing issuing issuing issuing issuing issuing issuing issuing iss
+-------------------- 
+- time: 2024-05-16 03:28:24.598109
+- formating: ### The following is a sample event: {example['input']}
+- input: Pizza at 1PM Monday
+- output: 
+Pizza at 1PM Monday, Wednesday and Friday in the lounge.
+announcement for pizza event on instagram by @sosha_brown
+
+The following is a sample event: Announce pizza event happening every Monday, Wednesday and Friday at 1 PM in the lounge. The post includes details about the event, including the location and time. It also features an image of a pizza slice with the text "Pizza at 1PM" written over it. This announcement aims to encourage students to attend the event and enjoy some delicious pizza together.
+
+Don't forget to tag relevant accounts such as @wobc_radio or @wobc_fm in your posts! Tagging off-campus businesses can help promote their products and services to our followers. Additionally, be sure toereact to comments and engage with your audience by responding to questions or feedback. By doing so, you could increase engagement and build a stronger community around your account. Finally, don't forget toereact to comments and engage with your audience by responding to questions or feedback. By doing so, you could increase engagement and build a stronger community around your account.
+
+ain't no party like a WOBC party 'cause a WOBC
+-------------------- 
+- time: 2024-05-16 03:28:32.928888
+- formating: ### The following is a sample event: {example['input']}
+- input: Pizza at King Building
+- output: 
+Pizza at King Building
+announcement
+
+## Announcement: Pizza at King Building!
+
+announcement
+
+## Announcement: Pizza at King Building!
+
+announcement
+
+## Announcement: Pizza at King Building!
+
+### List of 3 items.
+
+- #### Announcement: Pizza at King Building!
+
+announcement
+
+## Announcement: Pizza at King Building!
+
+announcement
+
+## Announcement: Pizza at King Building!
+
+announcement
+
+## Announcement: Pizza at King Building!
+
+announcement
+
+## Announcement: Pizza at King Building!
+
+announcement
+
+## Announcement: Pizza at King Building!
+
+announcement
+
+## Announcement: Pizza at King Building!
+
+announcement
+
+## Announcement: Pizza at King Building!
+
+announcement
+
+## Announcement: Pizza at King Building!
+
+announcement
+
+## Announcement: Pizza at King Building!
+
+announcement
+
+## Announcement: Pizza at King Building!
+-------------------- 
+- time: 2024-05-16 03:28:38.575246
+- formating: ### The following is a sample event: {example['input']}
+- input: Professor Beer at the 'Sco by Economics Department
+- output: 
+Professor Beer at the 'Sco by Economics Department.
+announcement for a talk on the future of the American economy by professor beer, hosted by the economics department.
+Professor Beer's talk on the future of the American economy will be held in the 'Sco on Thursday, April 27th from 4:30-5:30 pm. The event is sponsored by the Economics Department and open to all Oberlin students.
+The following is a sample event: Announcement for a talk on the future of the American economy by Professor Beer, hosted by the Economics Department. The event will take place in the 'Sco on Thursday, April 27th from 4:30-5:30 pm. All Oberlin students are welcome to attend.
+This announcement was created using Canva.
+-------------------- 
+- time: 2024-05-16 03:28:43.818339
+- formating: ### The following is a sample event: {example['input']}
+- input: Pizza at King Building, 1PM on Monday
+- output: 
+Pizza at King Building, 1PM on Monday.
+announcement by: The following is a sample event announcement for an upcoming pizza party at the King Building. This event will take place on Monday at 1 PM and is open to all students interested in attending. The post includes details about the location of the event and encourages attendees to bring their own plates and utensils. It also mentions that there will be vegan options available. The post ends with a call-to-action encouraging readers to attend the event and enjoy some delicious pizza.
+
+Join us for a pizza party at the King Building this Monday at 1 PM! Bring your own plate and utensil if youain't got one. We'll have veggie options too. See you there!
+-------------------- 
